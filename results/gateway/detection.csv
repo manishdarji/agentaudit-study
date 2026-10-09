@@ -1,0 +1,1701 @@
+k,mech,attacker,op,variant,region,pos,N,L,detected,reason
+10,M0,none,none,-,-,-1,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,naive,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,naive,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,naive,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,naive,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,edit,rehash,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,delete,rehash,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,reorder,rehash,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,insert,rehash,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,edit,resign,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,delete,resign,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,reorder,resign,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,history,0,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,history,290,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,history,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,tail,580,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,tail,584,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,tail,586,588,580,0,no integrity mechanism; nothing to check
+10,M0,A2,insert,resign,tail,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,truncate,drop1,within_window,587,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,truncate,drop9,past_anchor,579,588,580,0,no integrity mechanism; nothing to check
+10,M0,A1,truncate,drop294,past_anchor,294,588,580,0,no integrity mechanism; nothing to check
+10,M0,A3b,omit,middle,-,294,587,580,0,no integrity mechanism; nothing to check
+10,M0,A3b,omit,last,-,587,587,580,0,no integrity mechanism; nothing to check
+10,M1,none,none,-,-,-1,588,580,0,ok
+10,M1,A1,edit,naive,history,0,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,history,290,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,history,579,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,tail,580,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,tail,584,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,tail,586,588,580,1,entry hash does not match content
+10,M1,A1,edit,naive,tail,587,588,580,1,entry hash does not match content
+10,M1,A1,delete,naive,history,0,588,580,1,"sequence gap or reorder: expected 0, found 1"
+10,M1,A1,delete,naive,history,290,588,580,1,"sequence gap or reorder: expected 290, found 291"
+10,M1,A1,delete,naive,history,579,588,580,1,"sequence gap or reorder: expected 579, found 580"
+10,M1,A1,delete,naive,tail,580,588,580,1,"sequence gap or reorder: expected 580, found 581"
+10,M1,A1,delete,naive,tail,584,588,580,1,"sequence gap or reorder: expected 584, found 585"
+10,M1,A1,delete,naive,tail,586,588,580,1,"sequence gap or reorder: expected 586, found 587"
+10,M1,A1,reorder,naive,history,0,588,580,1,broken link to previous entry
+10,M1,A1,reorder,naive,history,290,588,580,1,broken link to previous entry
+10,M1,A1,reorder,naive,history,579,588,580,1,broken link to previous entry
+10,M1,A1,reorder,naive,tail,580,588,580,1,broken link to previous entry
+10,M1,A1,reorder,naive,tail,584,588,580,1,broken link to previous entry
+10,M1,A1,reorder,naive,tail,586,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,history,0,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,history,290,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,history,579,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,tail,580,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,tail,584,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,tail,586,588,580,1,broken link to previous entry
+10,M1,A1,insert,naive,tail,587,588,580,1,broken link to previous entry
+10,M1,A1,edit,rehash,history,0,588,580,1,invalid signature
+10,M1,A1,edit,rehash,history,290,588,580,1,invalid signature
+10,M1,A1,edit,rehash,history,579,588,580,1,invalid signature
+10,M1,A1,edit,rehash,tail,580,588,580,1,invalid signature
+10,M1,A1,edit,rehash,tail,584,588,580,1,invalid signature
+10,M1,A1,edit,rehash,tail,586,588,580,1,invalid signature
+10,M1,A1,edit,rehash,tail,587,588,580,1,invalid signature
+10,M1,A1,delete,rehash,history,0,588,580,1,invalid signature
+10,M1,A1,delete,rehash,history,290,588,580,1,invalid signature
+10,M1,A1,delete,rehash,history,579,588,580,1,invalid signature
+10,M1,A1,delete,rehash,tail,580,588,580,1,invalid signature
+10,M1,A1,delete,rehash,tail,584,588,580,1,invalid signature
+10,M1,A1,delete,rehash,tail,586,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,history,0,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,history,290,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,history,579,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,tail,580,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,tail,584,588,580,1,invalid signature
+10,M1,A1,reorder,rehash,tail,586,588,580,1,invalid signature
+10,M1,A1,insert,rehash,history,0,588,580,1,invalid signature
+10,M1,A1,insert,rehash,history,290,588,580,1,invalid signature
+10,M1,A1,insert,rehash,history,579,588,580,1,invalid signature
+10,M1,A1,insert,rehash,tail,580,588,580,1,invalid signature
+10,M1,A1,insert,rehash,tail,584,588,580,1,invalid signature
+10,M1,A1,insert,rehash,tail,586,588,580,1,invalid signature
+10,M1,A1,insert,rehash,tail,587,588,580,1,invalid signature
+10,M1,A2,edit,resign,history,0,588,580,0,ok
+10,M1,A2,edit,resign,history,290,588,580,0,ok
+10,M1,A2,edit,resign,history,579,588,580,0,ok
+10,M1,A2,edit,resign,tail,580,588,580,0,ok
+10,M1,A2,edit,resign,tail,584,588,580,0,ok
+10,M1,A2,edit,resign,tail,586,588,580,0,ok
+10,M1,A2,edit,resign,tail,587,588,580,0,ok
+10,M1,A2,delete,resign,history,0,588,580,0,ok
+10,M1,A2,delete,resign,history,290,588,580,0,ok
+10,M1,A2,delete,resign,history,579,588,580,0,ok
+10,M1,A2,delete,resign,tail,580,588,580,0,ok
+10,M1,A2,delete,resign,tail,584,588,580,0,ok
+10,M1,A2,delete,resign,tail,586,588,580,0,ok
+10,M1,A2,delete,resign,tail,587,588,580,0,ok
+10,M1,A2,reorder,resign,history,0,588,580,0,ok
+10,M1,A2,reorder,resign,history,290,588,580,0,ok
+10,M1,A2,reorder,resign,history,579,588,580,0,ok
+10,M1,A2,reorder,resign,tail,580,588,580,0,ok
+10,M1,A2,reorder,resign,tail,584,588,580,0,ok
+10,M1,A2,reorder,resign,tail,586,588,580,0,ok
+10,M1,A2,insert,resign,history,0,588,580,0,ok
+10,M1,A2,insert,resign,history,290,588,580,0,ok
+10,M1,A2,insert,resign,history,579,588,580,0,ok
+10,M1,A2,insert,resign,tail,580,588,580,0,ok
+10,M1,A2,insert,resign,tail,584,588,580,0,ok
+10,M1,A2,insert,resign,tail,586,588,580,0,ok
+10,M1,A2,insert,resign,tail,587,588,580,0,ok
+10,M1,A1,truncate,drop1,within_window,587,588,580,0,ok
+10,M1,A1,truncate,drop9,past_anchor,579,588,580,0,ok
+10,M1,A1,truncate,drop294,past_anchor,294,588,580,0,ok
+10,M1,A3b,omit,middle,-,294,587,580,0,ok
+10,M1,A3b,omit,last,-,587,587,580,0,ok
+10,M2,none,none,-,-,-1,588,580,0,ok
+10,M2,A1,edit,naive,history,0,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,history,290,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,history,579,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,tail,580,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,tail,584,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,tail,586,588,580,1,entry hash does not match content
+10,M2,A1,edit,naive,tail,587,588,580,1,entry hash does not match content
+10,M2,A1,delete,naive,history,0,588,580,1,"sequence gap or reorder: expected 0, found 1"
+10,M2,A1,delete,naive,history,290,588,580,1,"sequence gap or reorder: expected 290, found 291"
+10,M2,A1,delete,naive,history,579,588,580,1,"sequence gap or reorder: expected 579, found 580"
+10,M2,A1,delete,naive,tail,580,588,580,1,"sequence gap or reorder: expected 580, found 581"
+10,M2,A1,delete,naive,tail,584,588,580,1,"sequence gap or reorder: expected 584, found 585"
+10,M2,A1,delete,naive,tail,586,588,580,1,"sequence gap or reorder: expected 586, found 587"
+10,M2,A1,reorder,naive,history,0,588,580,1,broken link to previous entry
+10,M2,A1,reorder,naive,history,290,588,580,1,broken link to previous entry
+10,M2,A1,reorder,naive,history,579,588,580,1,broken link to previous entry
+10,M2,A1,reorder,naive,tail,580,588,580,1,broken link to previous entry
+10,M2,A1,reorder,naive,tail,584,588,580,1,broken link to previous entry
+10,M2,A1,reorder,naive,tail,586,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,history,0,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,history,290,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,history,579,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,tail,580,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,tail,584,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,tail,586,588,580,1,broken link to previous entry
+10,M2,A1,insert,naive,tail,587,588,580,1,broken link to previous entry
+10,M2,A1,edit,rehash,history,0,588,580,1,invalid signature
+10,M2,A1,edit,rehash,history,290,588,580,1,invalid signature
+10,M2,A1,edit,rehash,history,579,588,580,1,invalid signature
+10,M2,A1,edit,rehash,tail,580,588,580,1,invalid signature
+10,M2,A1,edit,rehash,tail,584,588,580,1,invalid signature
+10,M2,A1,edit,rehash,tail,586,588,580,1,invalid signature
+10,M2,A1,edit,rehash,tail,587,588,580,1,invalid signature
+10,M2,A1,delete,rehash,history,0,588,580,1,invalid signature
+10,M2,A1,delete,rehash,history,290,588,580,1,invalid signature
+10,M2,A1,delete,rehash,history,579,588,580,1,invalid signature
+10,M2,A1,delete,rehash,tail,580,588,580,1,invalid signature
+10,M2,A1,delete,rehash,tail,584,588,580,1,invalid signature
+10,M2,A1,delete,rehash,tail,586,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,history,0,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,history,290,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,history,579,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,tail,580,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,tail,584,588,580,1,invalid signature
+10,M2,A1,reorder,rehash,tail,586,588,580,1,invalid signature
+10,M2,A1,insert,rehash,history,0,588,580,1,invalid signature
+10,M2,A1,insert,rehash,history,290,588,580,1,invalid signature
+10,M2,A1,insert,rehash,history,579,588,580,1,invalid signature
+10,M2,A1,insert,rehash,tail,580,588,580,1,invalid signature
+10,M2,A1,insert,rehash,tail,584,588,580,1,invalid signature
+10,M2,A1,insert,rehash,tail,586,588,580,1,invalid signature
+10,M2,A1,insert,rehash,tail,587,588,580,1,invalid signature
+10,M2,A2,edit,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,edit,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,edit,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,edit,resign,tail,580,588,580,0,ok
+10,M2,A2,edit,resign,tail,584,588,580,0,ok
+10,M2,A2,edit,resign,tail,586,588,580,0,ok
+10,M2,A2,edit,resign,tail,587,588,580,0,ok
+10,M2,A2,delete,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,delete,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,delete,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,delete,resign,tail,580,588,580,0,ok
+10,M2,A2,delete,resign,tail,584,588,580,0,ok
+10,M2,A2,delete,resign,tail,586,588,580,0,ok
+10,M2,A2,delete,resign,tail,587,588,580,0,ok
+10,M2,A2,reorder,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,reorder,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,reorder,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,reorder,resign,tail,580,588,580,0,ok
+10,M2,A2,reorder,resign,tail,584,588,580,0,ok
+10,M2,A2,reorder,resign,tail,586,588,580,0,ok
+10,M2,A2,insert,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,insert,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,insert,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M2,A2,insert,resign,tail,580,588,580,0,ok
+10,M2,A2,insert,resign,tail,584,588,580,0,ok
+10,M2,A2,insert,resign,tail,586,588,580,0,ok
+10,M2,A2,insert,resign,tail,587,588,580,0,ok
+10,M2,A1,truncate,drop1,within_window,587,588,580,0,ok
+10,M2,A1,truncate,drop9,past_anchor,579,588,580,1,log shorter than anchored length (579 < 580)
+10,M2,A1,truncate,drop294,past_anchor,294,588,580,1,log shorter than anchored length (294 < 300)
+10,M2,A3b,omit,middle,-,294,587,580,0,ok
+10,M2,A3b,omit,last,-,587,587,580,0,ok
+10,M3,none,none,-,-,-1,588,580,0,ok
+10,M3,A1,edit,naive,history,0,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,history,290,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,history,579,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,tail,580,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,tail,584,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,tail,586,588,580,1,entry hash does not match content
+10,M3,A1,edit,naive,tail,587,588,580,1,entry hash does not match content
+10,M3,A1,delete,naive,history,0,588,580,1,"sequence gap or reorder: expected 0, found 1"
+10,M3,A1,delete,naive,history,290,588,580,1,"sequence gap or reorder: expected 290, found 291"
+10,M3,A1,delete,naive,history,579,588,580,1,"sequence gap or reorder: expected 579, found 580"
+10,M3,A1,delete,naive,tail,580,588,580,1,"sequence gap or reorder: expected 580, found 581"
+10,M3,A1,delete,naive,tail,584,588,580,1,"sequence gap or reorder: expected 584, found 585"
+10,M3,A1,delete,naive,tail,586,588,580,1,"sequence gap or reorder: expected 586, found 587"
+10,M3,A1,reorder,naive,history,0,588,580,1,broken link to previous entry
+10,M3,A1,reorder,naive,history,290,588,580,1,broken link to previous entry
+10,M3,A1,reorder,naive,history,579,588,580,1,broken link to previous entry
+10,M3,A1,reorder,naive,tail,580,588,580,1,broken link to previous entry
+10,M3,A1,reorder,naive,tail,584,588,580,1,broken link to previous entry
+10,M3,A1,reorder,naive,tail,586,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,history,0,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,history,290,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,history,579,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,tail,580,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,tail,584,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,tail,586,588,580,1,broken link to previous entry
+10,M3,A1,insert,naive,tail,587,588,580,1,broken link to previous entry
+10,M3,A1,edit,rehash,history,0,588,580,1,invalid signature
+10,M3,A1,edit,rehash,history,290,588,580,1,invalid signature
+10,M3,A1,edit,rehash,history,579,588,580,1,invalid signature
+10,M3,A1,edit,rehash,tail,580,588,580,1,invalid signature
+10,M3,A1,edit,rehash,tail,584,588,580,1,invalid signature
+10,M3,A1,edit,rehash,tail,586,588,580,1,invalid signature
+10,M3,A1,edit,rehash,tail,587,588,580,1,invalid signature
+10,M3,A1,delete,rehash,history,0,588,580,1,invalid signature
+10,M3,A1,delete,rehash,history,290,588,580,1,invalid signature
+10,M3,A1,delete,rehash,history,579,588,580,1,invalid signature
+10,M3,A1,delete,rehash,tail,580,588,580,1,invalid signature
+10,M3,A1,delete,rehash,tail,584,588,580,1,invalid signature
+10,M3,A1,delete,rehash,tail,586,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,history,0,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,history,290,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,history,579,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,tail,580,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,tail,584,588,580,1,invalid signature
+10,M3,A1,reorder,rehash,tail,586,588,580,1,invalid signature
+10,M3,A1,insert,rehash,history,0,588,580,1,invalid signature
+10,M3,A1,insert,rehash,history,290,588,580,1,invalid signature
+10,M3,A1,insert,rehash,history,579,588,580,1,invalid signature
+10,M3,A1,insert,rehash,tail,580,588,580,1,invalid signature
+10,M3,A1,insert,rehash,tail,584,588,580,1,invalid signature
+10,M3,A1,insert,rehash,tail,586,588,580,1,invalid signature
+10,M3,A1,insert,rehash,tail,587,588,580,1,invalid signature
+10,M3,A2,edit,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,edit,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,edit,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,edit,resign,tail,580,588,580,0,ok
+10,M3,A2,edit,resign,tail,584,588,580,0,ok
+10,M3,A2,edit,resign,tail,586,588,580,0,ok
+10,M3,A2,edit,resign,tail,587,588,580,0,ok
+10,M3,A2,delete,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,delete,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,delete,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,delete,resign,tail,580,588,580,0,ok
+10,M3,A2,delete,resign,tail,584,588,580,0,ok
+10,M3,A2,delete,resign,tail,586,588,580,0,ok
+10,M3,A2,delete,resign,tail,587,588,580,0,ok
+10,M3,A2,reorder,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,reorder,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,reorder,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,reorder,resign,tail,580,588,580,0,ok
+10,M3,A2,reorder,resign,tail,584,588,580,0,ok
+10,M3,A2,reorder,resign,tail,586,588,580,0,ok
+10,M3,A2,insert,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,insert,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,insert,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M3,A2,insert,resign,tail,580,588,580,0,ok
+10,M3,A2,insert,resign,tail,584,588,580,0,ok
+10,M3,A2,insert,resign,tail,586,588,580,0,ok
+10,M3,A2,insert,resign,tail,587,588,580,0,ok
+10,M3,A1,truncate,drop1,within_window,587,588,580,0,ok
+10,M3,A1,truncate,drop9,past_anchor,579,588,580,1,log shorter than anchored length (579 < 580)
+10,M3,A1,truncate,drop294,past_anchor,294,588,580,1,log shorter than anchored length (294 < 300)
+10,M3,A3b,omit,middle,-,294,587,580,0,ok
+10,M3,A3b,omit,last,-,587,587,580,0,ok
+10,M4,none,none,-,-,-1,588,580,0,ok
+10,M4,A1,edit,naive,history,0,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,history,290,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,history,579,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,tail,580,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,tail,584,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,tail,586,588,580,1,entry hash does not match content
+10,M4,A1,edit,naive,tail,587,588,580,1,entry hash does not match content
+10,M4,A1,delete,naive,history,0,588,580,1,"sequence gap or reorder: expected 0, found 1"
+10,M4,A1,delete,naive,history,290,588,580,1,"sequence gap or reorder: expected 290, found 291"
+10,M4,A1,delete,naive,history,579,588,580,1,"sequence gap or reorder: expected 579, found 580"
+10,M4,A1,delete,naive,tail,580,588,580,1,"sequence gap or reorder: expected 580, found 581"
+10,M4,A1,delete,naive,tail,584,588,580,1,"sequence gap or reorder: expected 584, found 585"
+10,M4,A1,delete,naive,tail,586,588,580,1,"sequence gap or reorder: expected 586, found 587"
+10,M4,A1,reorder,naive,history,0,588,580,1,broken link to previous entry
+10,M4,A1,reorder,naive,history,290,588,580,1,broken link to previous entry
+10,M4,A1,reorder,naive,history,579,588,580,1,broken link to previous entry
+10,M4,A1,reorder,naive,tail,580,588,580,1,broken link to previous entry
+10,M4,A1,reorder,naive,tail,584,588,580,1,broken link to previous entry
+10,M4,A1,reorder,naive,tail,586,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,history,0,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,history,290,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,history,579,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,tail,580,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,tail,584,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,tail,586,588,580,1,broken link to previous entry
+10,M4,A1,insert,naive,tail,587,588,580,1,broken link to previous entry
+10,M4,A1,edit,rehash,history,0,588,580,1,invalid signature
+10,M4,A1,edit,rehash,history,290,588,580,1,invalid signature
+10,M4,A1,edit,rehash,history,579,588,580,1,invalid signature
+10,M4,A1,edit,rehash,tail,580,588,580,1,invalid signature
+10,M4,A1,edit,rehash,tail,584,588,580,1,invalid signature
+10,M4,A1,edit,rehash,tail,586,588,580,1,invalid signature
+10,M4,A1,edit,rehash,tail,587,588,580,1,invalid signature
+10,M4,A1,delete,rehash,history,0,588,580,1,invalid signature
+10,M4,A1,delete,rehash,history,290,588,580,1,invalid signature
+10,M4,A1,delete,rehash,history,579,588,580,1,invalid signature
+10,M4,A1,delete,rehash,tail,580,588,580,1,invalid signature
+10,M4,A1,delete,rehash,tail,584,588,580,1,invalid signature
+10,M4,A1,delete,rehash,tail,586,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,history,0,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,history,290,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,history,579,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,tail,580,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,tail,584,588,580,1,invalid signature
+10,M4,A1,reorder,rehash,tail,586,588,580,1,invalid signature
+10,M4,A1,insert,rehash,history,0,588,580,1,invalid signature
+10,M4,A1,insert,rehash,history,290,588,580,1,invalid signature
+10,M4,A1,insert,rehash,history,579,588,580,1,invalid signature
+10,M4,A1,insert,rehash,tail,580,588,580,1,invalid signature
+10,M4,A1,insert,rehash,tail,584,588,580,1,invalid signature
+10,M4,A1,insert,rehash,tail,586,588,580,1,invalid signature
+10,M4,A1,insert,rehash,tail,587,588,580,1,invalid signature
+10,M4,A2,edit,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,edit,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,edit,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,edit,resign,tail,580,588,580,0,ok
+10,M4,A2,edit,resign,tail,584,588,580,0,ok
+10,M4,A2,edit,resign,tail,586,588,580,0,ok
+10,M4,A2,edit,resign,tail,587,588,580,0,ok
+10,M4,A2,delete,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,delete,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,delete,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,delete,resign,tail,580,588,580,0,ok
+10,M4,A2,delete,resign,tail,584,588,580,0,ok
+10,M4,A2,delete,resign,tail,586,588,580,0,ok
+10,M4,A2,delete,resign,tail,587,588,580,0,ok
+10,M4,A2,reorder,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,reorder,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,reorder,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,reorder,resign,tail,580,588,580,0,ok
+10,M4,A2,reorder,resign,tail,584,588,580,0,ok
+10,M4,A2,reorder,resign,tail,586,588,580,0,ok
+10,M4,A2,insert,resign,history,0,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,insert,resign,history,290,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,insert,resign,history,579,588,580,1,history before the anchor differs from what was anchored
+10,M4,A2,insert,resign,tail,580,588,580,0,ok
+10,M4,A2,insert,resign,tail,584,588,580,0,ok
+10,M4,A2,insert,resign,tail,586,588,580,0,ok
+10,M4,A2,insert,resign,tail,587,588,580,0,ok
+10,M4,A1,truncate,drop1,within_window,587,588,580,0,ok
+10,M4,A1,truncate,drop9,past_anchor,579,588,580,1,log shorter than anchored length (579 < 580)
+10,M4,A1,truncate,drop294,past_anchor,294,588,580,1,log shorter than anchored length (294 < 300)
+10,M4,A3b,omit,middle,-,294,587,580,0,ok
+10,M4,A3b,omit,last,-,587,587,580,0,ok
+50,M0,none,none,-,-,-1,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,naive,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,naive,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,naive,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,naive,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,edit,rehash,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,delete,rehash,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,reorder,rehash,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,insert,rehash,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,edit,resign,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,delete,resign,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,reorder,resign,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,history,0,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,history,275,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,history,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,tail,550,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,tail,569,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,tail,586,588,550,0,no integrity mechanism; nothing to check
+50,M0,A2,insert,resign,tail,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,truncate,drop1,within_window,587,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,truncate,drop39,past_anchor,549,588,550,0,no integrity mechanism; nothing to check
+50,M0,A1,truncate,drop294,past_anchor,294,588,550,0,no integrity mechanism; nothing to check
+50,M0,A3b,omit,middle,-,294,587,550,0,no integrity mechanism; nothing to check
+50,M0,A3b,omit,last,-,587,587,550,0,no integrity mechanism; nothing to check
+50,M1,none,none,-,-,-1,588,550,0,ok
+50,M1,A1,edit,naive,history,0,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,history,275,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,history,549,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,tail,550,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,tail,569,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,tail,586,588,550,1,entry hash does not match content
+50,M1,A1,edit,naive,tail,587,588,550,1,entry hash does not match content
+50,M1,A1,delete,naive,history,0,588,550,1,"sequence gap or reorder: expected 0, found 1"
+50,M1,A1,delete,naive,history,275,588,550,1,"sequence gap or reorder: expected 275, found 276"
+50,M1,A1,delete,naive,history,549,588,550,1,"sequence gap or reorder: expected 549, found 550"
+50,M1,A1,delete,naive,tail,550,588,550,1,"sequence gap or reorder: expected 550, found 551"
+50,M1,A1,delete,naive,tail,569,588,550,1,"sequence gap or reorder: expected 569, found 570"
+50,M1,A1,delete,naive,tail,586,588,550,1,"sequence gap or reorder: expected 586, found 587"
+50,M1,A1,reorder,naive,history,0,588,550,1,broken link to previous entry
+50,M1,A1,reorder,naive,history,275,588,550,1,broken link to previous entry
+50,M1,A1,reorder,naive,history,549,588,550,1,broken link to previous entry
+50,M1,A1,reorder,naive,tail,550,588,550,1,broken link to previous entry
+50,M1,A1,reorder,naive,tail,569,588,550,1,broken link to previous entry
+50,M1,A1,reorder,naive,tail,586,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,history,0,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,history,275,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,history,549,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,tail,550,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,tail,569,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,tail,586,588,550,1,broken link to previous entry
+50,M1,A1,insert,naive,tail,587,588,550,1,broken link to previous entry
+50,M1,A1,edit,rehash,history,0,588,550,1,invalid signature
+50,M1,A1,edit,rehash,history,275,588,550,1,invalid signature
+50,M1,A1,edit,rehash,history,549,588,550,1,invalid signature
+50,M1,A1,edit,rehash,tail,550,588,550,1,invalid signature
+50,M1,A1,edit,rehash,tail,569,588,550,1,invalid signature
+50,M1,A1,edit,rehash,tail,586,588,550,1,invalid signature
+50,M1,A1,edit,rehash,tail,587,588,550,1,invalid signature
+50,M1,A1,delete,rehash,history,0,588,550,1,invalid signature
+50,M1,A1,delete,rehash,history,275,588,550,1,invalid signature
+50,M1,A1,delete,rehash,history,549,588,550,1,invalid signature
+50,M1,A1,delete,rehash,tail,550,588,550,1,invalid signature
+50,M1,A1,delete,rehash,tail,569,588,550,1,invalid signature
+50,M1,A1,delete,rehash,tail,586,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,history,0,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,history,275,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,history,549,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,tail,550,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,tail,569,588,550,1,invalid signature
+50,M1,A1,reorder,rehash,tail,586,588,550,1,invalid signature
+50,M1,A1,insert,rehash,history,0,588,550,1,invalid signature
+50,M1,A1,insert,rehash,history,275,588,550,1,invalid signature
+50,M1,A1,insert,rehash,history,549,588,550,1,invalid signature
+50,M1,A1,insert,rehash,tail,550,588,550,1,invalid signature
+50,M1,A1,insert,rehash,tail,569,588,550,1,invalid signature
+50,M1,A1,insert,rehash,tail,586,588,550,1,invalid signature
+50,M1,A1,insert,rehash,tail,587,588,550,1,invalid signature
+50,M1,A2,edit,resign,history,0,588,550,0,ok
+50,M1,A2,edit,resign,history,275,588,550,0,ok
+50,M1,A2,edit,resign,history,549,588,550,0,ok
+50,M1,A2,edit,resign,tail,550,588,550,0,ok
+50,M1,A2,edit,resign,tail,569,588,550,0,ok
+50,M1,A2,edit,resign,tail,586,588,550,0,ok
+50,M1,A2,edit,resign,tail,587,588,550,0,ok
+50,M1,A2,delete,resign,history,0,588,550,0,ok
+50,M1,A2,delete,resign,history,275,588,550,0,ok
+50,M1,A2,delete,resign,history,549,588,550,0,ok
+50,M1,A2,delete,resign,tail,550,588,550,0,ok
+50,M1,A2,delete,resign,tail,569,588,550,0,ok
+50,M1,A2,delete,resign,tail,586,588,550,0,ok
+50,M1,A2,delete,resign,tail,587,588,550,0,ok
+50,M1,A2,reorder,resign,history,0,588,550,0,ok
+50,M1,A2,reorder,resign,history,275,588,550,0,ok
+50,M1,A2,reorder,resign,history,549,588,550,0,ok
+50,M1,A2,reorder,resign,tail,550,588,550,0,ok
+50,M1,A2,reorder,resign,tail,569,588,550,0,ok
+50,M1,A2,reorder,resign,tail,586,588,550,0,ok
+50,M1,A2,insert,resign,history,0,588,550,0,ok
+50,M1,A2,insert,resign,history,275,588,550,0,ok
+50,M1,A2,insert,resign,history,549,588,550,0,ok
+50,M1,A2,insert,resign,tail,550,588,550,0,ok
+50,M1,A2,insert,resign,tail,569,588,550,0,ok
+50,M1,A2,insert,resign,tail,586,588,550,0,ok
+50,M1,A2,insert,resign,tail,587,588,550,0,ok
+50,M1,A1,truncate,drop1,within_window,587,588,550,0,ok
+50,M1,A1,truncate,drop39,past_anchor,549,588,550,0,ok
+50,M1,A1,truncate,drop294,past_anchor,294,588,550,0,ok
+50,M1,A3b,omit,middle,-,294,587,550,0,ok
+50,M1,A3b,omit,last,-,587,587,550,0,ok
+50,M2,none,none,-,-,-1,588,550,0,ok
+50,M2,A1,edit,naive,history,0,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,history,275,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,history,549,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,tail,550,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,tail,569,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,tail,586,588,550,1,entry hash does not match content
+50,M2,A1,edit,naive,tail,587,588,550,1,entry hash does not match content
+50,M2,A1,delete,naive,history,0,588,550,1,"sequence gap or reorder: expected 0, found 1"
+50,M2,A1,delete,naive,history,275,588,550,1,"sequence gap or reorder: expected 275, found 276"
+50,M2,A1,delete,naive,history,549,588,550,1,"sequence gap or reorder: expected 549, found 550"
+50,M2,A1,delete,naive,tail,550,588,550,1,"sequence gap or reorder: expected 550, found 551"
+50,M2,A1,delete,naive,tail,569,588,550,1,"sequence gap or reorder: expected 569, found 570"
+50,M2,A1,delete,naive,tail,586,588,550,1,"sequence gap or reorder: expected 586, found 587"
+50,M2,A1,reorder,naive,history,0,588,550,1,broken link to previous entry
+50,M2,A1,reorder,naive,history,275,588,550,1,broken link to previous entry
+50,M2,A1,reorder,naive,history,549,588,550,1,broken link to previous entry
+50,M2,A1,reorder,naive,tail,550,588,550,1,broken link to previous entry
+50,M2,A1,reorder,naive,tail,569,588,550,1,broken link to previous entry
+50,M2,A1,reorder,naive,tail,586,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,history,0,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,history,275,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,history,549,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,tail,550,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,tail,569,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,tail,586,588,550,1,broken link to previous entry
+50,M2,A1,insert,naive,tail,587,588,550,1,broken link to previous entry
+50,M2,A1,edit,rehash,history,0,588,550,1,invalid signature
+50,M2,A1,edit,rehash,history,275,588,550,1,invalid signature
+50,M2,A1,edit,rehash,history,549,588,550,1,invalid signature
+50,M2,A1,edit,rehash,tail,550,588,550,1,invalid signature
+50,M2,A1,edit,rehash,tail,569,588,550,1,invalid signature
+50,M2,A1,edit,rehash,tail,586,588,550,1,invalid signature
+50,M2,A1,edit,rehash,tail,587,588,550,1,invalid signature
+50,M2,A1,delete,rehash,history,0,588,550,1,invalid signature
+50,M2,A1,delete,rehash,history,275,588,550,1,invalid signature
+50,M2,A1,delete,rehash,history,549,588,550,1,invalid signature
+50,M2,A1,delete,rehash,tail,550,588,550,1,invalid signature
+50,M2,A1,delete,rehash,tail,569,588,550,1,invalid signature
+50,M2,A1,delete,rehash,tail,586,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,history,0,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,history,275,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,history,549,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,tail,550,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,tail,569,588,550,1,invalid signature
+50,M2,A1,reorder,rehash,tail,586,588,550,1,invalid signature
+50,M2,A1,insert,rehash,history,0,588,550,1,invalid signature
+50,M2,A1,insert,rehash,history,275,588,550,1,invalid signature
+50,M2,A1,insert,rehash,history,549,588,550,1,invalid signature
+50,M2,A1,insert,rehash,tail,550,588,550,1,invalid signature
+50,M2,A1,insert,rehash,tail,569,588,550,1,invalid signature
+50,M2,A1,insert,rehash,tail,586,588,550,1,invalid signature
+50,M2,A1,insert,rehash,tail,587,588,550,1,invalid signature
+50,M2,A2,edit,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,edit,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,edit,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,edit,resign,tail,550,588,550,0,ok
+50,M2,A2,edit,resign,tail,569,588,550,0,ok
+50,M2,A2,edit,resign,tail,586,588,550,0,ok
+50,M2,A2,edit,resign,tail,587,588,550,0,ok
+50,M2,A2,delete,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,delete,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,delete,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,delete,resign,tail,550,588,550,0,ok
+50,M2,A2,delete,resign,tail,569,588,550,0,ok
+50,M2,A2,delete,resign,tail,586,588,550,0,ok
+50,M2,A2,delete,resign,tail,587,588,550,0,ok
+50,M2,A2,reorder,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,reorder,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,reorder,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,reorder,resign,tail,550,588,550,0,ok
+50,M2,A2,reorder,resign,tail,569,588,550,0,ok
+50,M2,A2,reorder,resign,tail,586,588,550,0,ok
+50,M2,A2,insert,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,insert,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,insert,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M2,A2,insert,resign,tail,550,588,550,0,ok
+50,M2,A2,insert,resign,tail,569,588,550,0,ok
+50,M2,A2,insert,resign,tail,586,588,550,0,ok
+50,M2,A2,insert,resign,tail,587,588,550,0,ok
+50,M2,A1,truncate,drop1,within_window,587,588,550,0,ok
+50,M2,A1,truncate,drop39,past_anchor,549,588,550,1,log shorter than anchored length (549 < 550)
+50,M2,A1,truncate,drop294,past_anchor,294,588,550,1,log shorter than anchored length (294 < 300)
+50,M2,A3b,omit,middle,-,294,587,550,0,ok
+50,M2,A3b,omit,last,-,587,587,550,0,ok
+50,M3,none,none,-,-,-1,588,550,0,ok
+50,M3,A1,edit,naive,history,0,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,history,275,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,history,549,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,tail,550,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,tail,569,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,tail,586,588,550,1,entry hash does not match content
+50,M3,A1,edit,naive,tail,587,588,550,1,entry hash does not match content
+50,M3,A1,delete,naive,history,0,588,550,1,"sequence gap or reorder: expected 0, found 1"
+50,M3,A1,delete,naive,history,275,588,550,1,"sequence gap or reorder: expected 275, found 276"
+50,M3,A1,delete,naive,history,549,588,550,1,"sequence gap or reorder: expected 549, found 550"
+50,M3,A1,delete,naive,tail,550,588,550,1,"sequence gap or reorder: expected 550, found 551"
+50,M3,A1,delete,naive,tail,569,588,550,1,"sequence gap or reorder: expected 569, found 570"
+50,M3,A1,delete,naive,tail,586,588,550,1,"sequence gap or reorder: expected 586, found 587"
+50,M3,A1,reorder,naive,history,0,588,550,1,broken link to previous entry
+50,M3,A1,reorder,naive,history,275,588,550,1,broken link to previous entry
+50,M3,A1,reorder,naive,history,549,588,550,1,broken link to previous entry
+50,M3,A1,reorder,naive,tail,550,588,550,1,broken link to previous entry
+50,M3,A1,reorder,naive,tail,569,588,550,1,broken link to previous entry
+50,M3,A1,reorder,naive,tail,586,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,history,0,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,history,275,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,history,549,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,tail,550,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,tail,569,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,tail,586,588,550,1,broken link to previous entry
+50,M3,A1,insert,naive,tail,587,588,550,1,broken link to previous entry
+50,M3,A1,edit,rehash,history,0,588,550,1,invalid signature
+50,M3,A1,edit,rehash,history,275,588,550,1,invalid signature
+50,M3,A1,edit,rehash,history,549,588,550,1,invalid signature
+50,M3,A1,edit,rehash,tail,550,588,550,1,invalid signature
+50,M3,A1,edit,rehash,tail,569,588,550,1,invalid signature
+50,M3,A1,edit,rehash,tail,586,588,550,1,invalid signature
+50,M3,A1,edit,rehash,tail,587,588,550,1,invalid signature
+50,M3,A1,delete,rehash,history,0,588,550,1,invalid signature
+50,M3,A1,delete,rehash,history,275,588,550,1,invalid signature
+50,M3,A1,delete,rehash,history,549,588,550,1,invalid signature
+50,M3,A1,delete,rehash,tail,550,588,550,1,invalid signature
+50,M3,A1,delete,rehash,tail,569,588,550,1,invalid signature
+50,M3,A1,delete,rehash,tail,586,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,history,0,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,history,275,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,history,549,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,tail,550,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,tail,569,588,550,1,invalid signature
+50,M3,A1,reorder,rehash,tail,586,588,550,1,invalid signature
+50,M3,A1,insert,rehash,history,0,588,550,1,invalid signature
+50,M3,A1,insert,rehash,history,275,588,550,1,invalid signature
+50,M3,A1,insert,rehash,history,549,588,550,1,invalid signature
+50,M3,A1,insert,rehash,tail,550,588,550,1,invalid signature
+50,M3,A1,insert,rehash,tail,569,588,550,1,invalid signature
+50,M3,A1,insert,rehash,tail,586,588,550,1,invalid signature
+50,M3,A1,insert,rehash,tail,587,588,550,1,invalid signature
+50,M3,A2,edit,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,edit,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,edit,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,edit,resign,tail,550,588,550,0,ok
+50,M3,A2,edit,resign,tail,569,588,550,0,ok
+50,M3,A2,edit,resign,tail,586,588,550,0,ok
+50,M3,A2,edit,resign,tail,587,588,550,0,ok
+50,M3,A2,delete,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,delete,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,delete,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,delete,resign,tail,550,588,550,0,ok
+50,M3,A2,delete,resign,tail,569,588,550,0,ok
+50,M3,A2,delete,resign,tail,586,588,550,0,ok
+50,M3,A2,delete,resign,tail,587,588,550,0,ok
+50,M3,A2,reorder,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,reorder,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,reorder,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,reorder,resign,tail,550,588,550,0,ok
+50,M3,A2,reorder,resign,tail,569,588,550,0,ok
+50,M3,A2,reorder,resign,tail,586,588,550,0,ok
+50,M3,A2,insert,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,insert,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,insert,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M3,A2,insert,resign,tail,550,588,550,0,ok
+50,M3,A2,insert,resign,tail,569,588,550,0,ok
+50,M3,A2,insert,resign,tail,586,588,550,0,ok
+50,M3,A2,insert,resign,tail,587,588,550,0,ok
+50,M3,A1,truncate,drop1,within_window,587,588,550,0,ok
+50,M3,A1,truncate,drop39,past_anchor,549,588,550,1,log shorter than anchored length (549 < 550)
+50,M3,A1,truncate,drop294,past_anchor,294,588,550,1,log shorter than anchored length (294 < 300)
+50,M3,A3b,omit,middle,-,294,587,550,0,ok
+50,M3,A3b,omit,last,-,587,587,550,0,ok
+50,M4,none,none,-,-,-1,588,550,0,ok
+50,M4,A1,edit,naive,history,0,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,history,275,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,history,549,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,tail,550,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,tail,569,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,tail,586,588,550,1,entry hash does not match content
+50,M4,A1,edit,naive,tail,587,588,550,1,entry hash does not match content
+50,M4,A1,delete,naive,history,0,588,550,1,"sequence gap or reorder: expected 0, found 1"
+50,M4,A1,delete,naive,history,275,588,550,1,"sequence gap or reorder: expected 275, found 276"
+50,M4,A1,delete,naive,history,549,588,550,1,"sequence gap or reorder: expected 549, found 550"
+50,M4,A1,delete,naive,tail,550,588,550,1,"sequence gap or reorder: expected 550, found 551"
+50,M4,A1,delete,naive,tail,569,588,550,1,"sequence gap or reorder: expected 569, found 570"
+50,M4,A1,delete,naive,tail,586,588,550,1,"sequence gap or reorder: expected 586, found 587"
+50,M4,A1,reorder,naive,history,0,588,550,1,broken link to previous entry
+50,M4,A1,reorder,naive,history,275,588,550,1,broken link to previous entry
+50,M4,A1,reorder,naive,history,549,588,550,1,broken link to previous entry
+50,M4,A1,reorder,naive,tail,550,588,550,1,broken link to previous entry
+50,M4,A1,reorder,naive,tail,569,588,550,1,broken link to previous entry
+50,M4,A1,reorder,naive,tail,586,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,history,0,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,history,275,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,history,549,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,tail,550,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,tail,569,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,tail,586,588,550,1,broken link to previous entry
+50,M4,A1,insert,naive,tail,587,588,550,1,broken link to previous entry
+50,M4,A1,edit,rehash,history,0,588,550,1,invalid signature
+50,M4,A1,edit,rehash,history,275,588,550,1,invalid signature
+50,M4,A1,edit,rehash,history,549,588,550,1,invalid signature
+50,M4,A1,edit,rehash,tail,550,588,550,1,invalid signature
+50,M4,A1,edit,rehash,tail,569,588,550,1,invalid signature
+50,M4,A1,edit,rehash,tail,586,588,550,1,invalid signature
+50,M4,A1,edit,rehash,tail,587,588,550,1,invalid signature
+50,M4,A1,delete,rehash,history,0,588,550,1,invalid signature
+50,M4,A1,delete,rehash,history,275,588,550,1,invalid signature
+50,M4,A1,delete,rehash,history,549,588,550,1,invalid signature
+50,M4,A1,delete,rehash,tail,550,588,550,1,invalid signature
+50,M4,A1,delete,rehash,tail,569,588,550,1,invalid signature
+50,M4,A1,delete,rehash,tail,586,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,history,0,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,history,275,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,history,549,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,tail,550,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,tail,569,588,550,1,invalid signature
+50,M4,A1,reorder,rehash,tail,586,588,550,1,invalid signature
+50,M4,A1,insert,rehash,history,0,588,550,1,invalid signature
+50,M4,A1,insert,rehash,history,275,588,550,1,invalid signature
+50,M4,A1,insert,rehash,history,549,588,550,1,invalid signature
+50,M4,A1,insert,rehash,tail,550,588,550,1,invalid signature
+50,M4,A1,insert,rehash,tail,569,588,550,1,invalid signature
+50,M4,A1,insert,rehash,tail,586,588,550,1,invalid signature
+50,M4,A1,insert,rehash,tail,587,588,550,1,invalid signature
+50,M4,A2,edit,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,edit,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,edit,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,edit,resign,tail,550,588,550,0,ok
+50,M4,A2,edit,resign,tail,569,588,550,0,ok
+50,M4,A2,edit,resign,tail,586,588,550,0,ok
+50,M4,A2,edit,resign,tail,587,588,550,0,ok
+50,M4,A2,delete,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,delete,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,delete,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,delete,resign,tail,550,588,550,0,ok
+50,M4,A2,delete,resign,tail,569,588,550,0,ok
+50,M4,A2,delete,resign,tail,586,588,550,0,ok
+50,M4,A2,delete,resign,tail,587,588,550,0,ok
+50,M4,A2,reorder,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,reorder,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,reorder,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,reorder,resign,tail,550,588,550,0,ok
+50,M4,A2,reorder,resign,tail,569,588,550,0,ok
+50,M4,A2,reorder,resign,tail,586,588,550,0,ok
+50,M4,A2,insert,resign,history,0,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,insert,resign,history,275,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,insert,resign,history,549,588,550,1,history before the anchor differs from what was anchored
+50,M4,A2,insert,resign,tail,550,588,550,0,ok
+50,M4,A2,insert,resign,tail,569,588,550,0,ok
+50,M4,A2,insert,resign,tail,586,588,550,0,ok
+50,M4,A2,insert,resign,tail,587,588,550,0,ok
+50,M4,A1,truncate,drop1,within_window,587,588,550,0,ok
+50,M4,A1,truncate,drop39,past_anchor,549,588,550,1,log shorter than anchored length (549 < 550)
+50,M4,A1,truncate,drop294,past_anchor,294,588,550,1,log shorter than anchored length (294 < 300)
+50,M4,A3b,omit,middle,-,294,587,550,0,ok
+50,M4,A3b,omit,last,-,587,587,550,0,ok
+100,M0,none,none,-,-,-1,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,naive,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,naive,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,edit,rehash,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,delete,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,reorder,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,insert,rehash,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,edit,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,delete,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,reorder,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+100,M0,A2,insert,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,truncate,drop1,within_window,587,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,truncate,drop89,past_anchor,499,588,500,0,no integrity mechanism; nothing to check
+100,M0,A1,truncate,drop294,past_anchor,294,588,500,0,no integrity mechanism; nothing to check
+100,M0,A3b,omit,middle,-,294,587,500,0,no integrity mechanism; nothing to check
+100,M0,A3b,omit,last,-,587,587,500,0,no integrity mechanism; nothing to check
+100,M1,none,none,-,-,-1,588,500,0,ok
+100,M1,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+100,M1,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+100,M1,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+100,M1,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+100,M1,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+100,M1,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+100,M1,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+100,M1,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+100,M1,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+100,M1,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+100,M1,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+100,M1,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+100,M1,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+100,M1,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+100,M1,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+100,M1,A1,edit,rehash,history,0,588,500,1,invalid signature
+100,M1,A1,edit,rehash,history,250,588,500,1,invalid signature
+100,M1,A1,edit,rehash,history,499,588,500,1,invalid signature
+100,M1,A1,edit,rehash,tail,500,588,500,1,invalid signature
+100,M1,A1,edit,rehash,tail,544,588,500,1,invalid signature
+100,M1,A1,edit,rehash,tail,586,588,500,1,invalid signature
+100,M1,A1,edit,rehash,tail,587,588,500,1,invalid signature
+100,M1,A1,delete,rehash,history,0,588,500,1,invalid signature
+100,M1,A1,delete,rehash,history,250,588,500,1,invalid signature
+100,M1,A1,delete,rehash,history,499,588,500,1,invalid signature
+100,M1,A1,delete,rehash,tail,500,588,500,1,invalid signature
+100,M1,A1,delete,rehash,tail,544,588,500,1,invalid signature
+100,M1,A1,delete,rehash,tail,586,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,history,0,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,history,250,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,history,499,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+100,M1,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+100,M1,A1,insert,rehash,history,0,588,500,1,invalid signature
+100,M1,A1,insert,rehash,history,250,588,500,1,invalid signature
+100,M1,A1,insert,rehash,history,499,588,500,1,invalid signature
+100,M1,A1,insert,rehash,tail,500,588,500,1,invalid signature
+100,M1,A1,insert,rehash,tail,544,588,500,1,invalid signature
+100,M1,A1,insert,rehash,tail,586,588,500,1,invalid signature
+100,M1,A1,insert,rehash,tail,587,588,500,1,invalid signature
+100,M1,A2,edit,resign,history,0,588,500,0,ok
+100,M1,A2,edit,resign,history,250,588,500,0,ok
+100,M1,A2,edit,resign,history,499,588,500,0,ok
+100,M1,A2,edit,resign,tail,500,588,500,0,ok
+100,M1,A2,edit,resign,tail,544,588,500,0,ok
+100,M1,A2,edit,resign,tail,586,588,500,0,ok
+100,M1,A2,edit,resign,tail,587,588,500,0,ok
+100,M1,A2,delete,resign,history,0,588,500,0,ok
+100,M1,A2,delete,resign,history,250,588,500,0,ok
+100,M1,A2,delete,resign,history,499,588,500,0,ok
+100,M1,A2,delete,resign,tail,500,588,500,0,ok
+100,M1,A2,delete,resign,tail,544,588,500,0,ok
+100,M1,A2,delete,resign,tail,586,588,500,0,ok
+100,M1,A2,delete,resign,tail,587,588,500,0,ok
+100,M1,A2,reorder,resign,history,0,588,500,0,ok
+100,M1,A2,reorder,resign,history,250,588,500,0,ok
+100,M1,A2,reorder,resign,history,499,588,500,0,ok
+100,M1,A2,reorder,resign,tail,500,588,500,0,ok
+100,M1,A2,reorder,resign,tail,544,588,500,0,ok
+100,M1,A2,reorder,resign,tail,586,588,500,0,ok
+100,M1,A2,insert,resign,history,0,588,500,0,ok
+100,M1,A2,insert,resign,history,250,588,500,0,ok
+100,M1,A2,insert,resign,history,499,588,500,0,ok
+100,M1,A2,insert,resign,tail,500,588,500,0,ok
+100,M1,A2,insert,resign,tail,544,588,500,0,ok
+100,M1,A2,insert,resign,tail,586,588,500,0,ok
+100,M1,A2,insert,resign,tail,587,588,500,0,ok
+100,M1,A1,truncate,drop1,within_window,587,588,500,0,ok
+100,M1,A1,truncate,drop89,past_anchor,499,588,500,0,ok
+100,M1,A1,truncate,drop294,past_anchor,294,588,500,0,ok
+100,M1,A3b,omit,middle,-,294,587,500,0,ok
+100,M1,A3b,omit,last,-,587,587,500,0,ok
+100,M2,none,none,-,-,-1,588,500,0,ok
+100,M2,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+100,M2,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+100,M2,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+100,M2,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+100,M2,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+100,M2,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+100,M2,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+100,M2,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+100,M2,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+100,M2,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+100,M2,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+100,M2,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+100,M2,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+100,M2,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+100,M2,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+100,M2,A1,edit,rehash,history,0,588,500,1,invalid signature
+100,M2,A1,edit,rehash,history,250,588,500,1,invalid signature
+100,M2,A1,edit,rehash,history,499,588,500,1,invalid signature
+100,M2,A1,edit,rehash,tail,500,588,500,1,invalid signature
+100,M2,A1,edit,rehash,tail,544,588,500,1,invalid signature
+100,M2,A1,edit,rehash,tail,586,588,500,1,invalid signature
+100,M2,A1,edit,rehash,tail,587,588,500,1,invalid signature
+100,M2,A1,delete,rehash,history,0,588,500,1,invalid signature
+100,M2,A1,delete,rehash,history,250,588,500,1,invalid signature
+100,M2,A1,delete,rehash,history,499,588,500,1,invalid signature
+100,M2,A1,delete,rehash,tail,500,588,500,1,invalid signature
+100,M2,A1,delete,rehash,tail,544,588,500,1,invalid signature
+100,M2,A1,delete,rehash,tail,586,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,history,0,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,history,250,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,history,499,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+100,M2,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+100,M2,A1,insert,rehash,history,0,588,500,1,invalid signature
+100,M2,A1,insert,rehash,history,250,588,500,1,invalid signature
+100,M2,A1,insert,rehash,history,499,588,500,1,invalid signature
+100,M2,A1,insert,rehash,tail,500,588,500,1,invalid signature
+100,M2,A1,insert,rehash,tail,544,588,500,1,invalid signature
+100,M2,A1,insert,rehash,tail,586,588,500,1,invalid signature
+100,M2,A1,insert,rehash,tail,587,588,500,1,invalid signature
+100,M2,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,edit,resign,tail,500,588,500,0,ok
+100,M2,A2,edit,resign,tail,544,588,500,0,ok
+100,M2,A2,edit,resign,tail,586,588,500,0,ok
+100,M2,A2,edit,resign,tail,587,588,500,0,ok
+100,M2,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,delete,resign,tail,500,588,500,0,ok
+100,M2,A2,delete,resign,tail,544,588,500,0,ok
+100,M2,A2,delete,resign,tail,586,588,500,0,ok
+100,M2,A2,delete,resign,tail,587,588,500,0,ok
+100,M2,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,reorder,resign,tail,500,588,500,0,ok
+100,M2,A2,reorder,resign,tail,544,588,500,0,ok
+100,M2,A2,reorder,resign,tail,586,588,500,0,ok
+100,M2,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M2,A2,insert,resign,tail,500,588,500,0,ok
+100,M2,A2,insert,resign,tail,544,588,500,0,ok
+100,M2,A2,insert,resign,tail,586,588,500,0,ok
+100,M2,A2,insert,resign,tail,587,588,500,0,ok
+100,M2,A1,truncate,drop1,within_window,587,588,500,0,ok
+100,M2,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+100,M2,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 300)
+100,M2,A3b,omit,middle,-,294,587,500,0,ok
+100,M2,A3b,omit,last,-,587,587,500,0,ok
+100,M3,none,none,-,-,-1,588,500,0,ok
+100,M3,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+100,M3,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+100,M3,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+100,M3,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+100,M3,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+100,M3,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+100,M3,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+100,M3,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+100,M3,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+100,M3,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+100,M3,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+100,M3,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+100,M3,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+100,M3,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+100,M3,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+100,M3,A1,edit,rehash,history,0,588,500,1,invalid signature
+100,M3,A1,edit,rehash,history,250,588,500,1,invalid signature
+100,M3,A1,edit,rehash,history,499,588,500,1,invalid signature
+100,M3,A1,edit,rehash,tail,500,588,500,1,invalid signature
+100,M3,A1,edit,rehash,tail,544,588,500,1,invalid signature
+100,M3,A1,edit,rehash,tail,586,588,500,1,invalid signature
+100,M3,A1,edit,rehash,tail,587,588,500,1,invalid signature
+100,M3,A1,delete,rehash,history,0,588,500,1,invalid signature
+100,M3,A1,delete,rehash,history,250,588,500,1,invalid signature
+100,M3,A1,delete,rehash,history,499,588,500,1,invalid signature
+100,M3,A1,delete,rehash,tail,500,588,500,1,invalid signature
+100,M3,A1,delete,rehash,tail,544,588,500,1,invalid signature
+100,M3,A1,delete,rehash,tail,586,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,history,0,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,history,250,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,history,499,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+100,M3,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+100,M3,A1,insert,rehash,history,0,588,500,1,invalid signature
+100,M3,A1,insert,rehash,history,250,588,500,1,invalid signature
+100,M3,A1,insert,rehash,history,499,588,500,1,invalid signature
+100,M3,A1,insert,rehash,tail,500,588,500,1,invalid signature
+100,M3,A1,insert,rehash,tail,544,588,500,1,invalid signature
+100,M3,A1,insert,rehash,tail,586,588,500,1,invalid signature
+100,M3,A1,insert,rehash,tail,587,588,500,1,invalid signature
+100,M3,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,edit,resign,tail,500,588,500,0,ok
+100,M3,A2,edit,resign,tail,544,588,500,0,ok
+100,M3,A2,edit,resign,tail,586,588,500,0,ok
+100,M3,A2,edit,resign,tail,587,588,500,0,ok
+100,M3,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,delete,resign,tail,500,588,500,0,ok
+100,M3,A2,delete,resign,tail,544,588,500,0,ok
+100,M3,A2,delete,resign,tail,586,588,500,0,ok
+100,M3,A2,delete,resign,tail,587,588,500,0,ok
+100,M3,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,reorder,resign,tail,500,588,500,0,ok
+100,M3,A2,reorder,resign,tail,544,588,500,0,ok
+100,M3,A2,reorder,resign,tail,586,588,500,0,ok
+100,M3,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M3,A2,insert,resign,tail,500,588,500,0,ok
+100,M3,A2,insert,resign,tail,544,588,500,0,ok
+100,M3,A2,insert,resign,tail,586,588,500,0,ok
+100,M3,A2,insert,resign,tail,587,588,500,0,ok
+100,M3,A1,truncate,drop1,within_window,587,588,500,0,ok
+100,M3,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+100,M3,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 300)
+100,M3,A3b,omit,middle,-,294,587,500,0,ok
+100,M3,A3b,omit,last,-,587,587,500,0,ok
+100,M4,none,none,-,-,-1,588,500,0,ok
+100,M4,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+100,M4,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+100,M4,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+100,M4,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+100,M4,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+100,M4,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+100,M4,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+100,M4,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+100,M4,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+100,M4,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+100,M4,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+100,M4,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+100,M4,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+100,M4,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+100,M4,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+100,M4,A1,edit,rehash,history,0,588,500,1,invalid signature
+100,M4,A1,edit,rehash,history,250,588,500,1,invalid signature
+100,M4,A1,edit,rehash,history,499,588,500,1,invalid signature
+100,M4,A1,edit,rehash,tail,500,588,500,1,invalid signature
+100,M4,A1,edit,rehash,tail,544,588,500,1,invalid signature
+100,M4,A1,edit,rehash,tail,586,588,500,1,invalid signature
+100,M4,A1,edit,rehash,tail,587,588,500,1,invalid signature
+100,M4,A1,delete,rehash,history,0,588,500,1,invalid signature
+100,M4,A1,delete,rehash,history,250,588,500,1,invalid signature
+100,M4,A1,delete,rehash,history,499,588,500,1,invalid signature
+100,M4,A1,delete,rehash,tail,500,588,500,1,invalid signature
+100,M4,A1,delete,rehash,tail,544,588,500,1,invalid signature
+100,M4,A1,delete,rehash,tail,586,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,history,0,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,history,250,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,history,499,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+100,M4,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+100,M4,A1,insert,rehash,history,0,588,500,1,invalid signature
+100,M4,A1,insert,rehash,history,250,588,500,1,invalid signature
+100,M4,A1,insert,rehash,history,499,588,500,1,invalid signature
+100,M4,A1,insert,rehash,tail,500,588,500,1,invalid signature
+100,M4,A1,insert,rehash,tail,544,588,500,1,invalid signature
+100,M4,A1,insert,rehash,tail,586,588,500,1,invalid signature
+100,M4,A1,insert,rehash,tail,587,588,500,1,invalid signature
+100,M4,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,edit,resign,tail,500,588,500,0,ok
+100,M4,A2,edit,resign,tail,544,588,500,0,ok
+100,M4,A2,edit,resign,tail,586,588,500,0,ok
+100,M4,A2,edit,resign,tail,587,588,500,0,ok
+100,M4,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,delete,resign,tail,500,588,500,0,ok
+100,M4,A2,delete,resign,tail,544,588,500,0,ok
+100,M4,A2,delete,resign,tail,586,588,500,0,ok
+100,M4,A2,delete,resign,tail,587,588,500,0,ok
+100,M4,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,reorder,resign,tail,500,588,500,0,ok
+100,M4,A2,reorder,resign,tail,544,588,500,0,ok
+100,M4,A2,reorder,resign,tail,586,588,500,0,ok
+100,M4,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+100,M4,A2,insert,resign,tail,500,588,500,0,ok
+100,M4,A2,insert,resign,tail,544,588,500,0,ok
+100,M4,A2,insert,resign,tail,586,588,500,0,ok
+100,M4,A2,insert,resign,tail,587,588,500,0,ok
+100,M4,A1,truncate,drop1,within_window,587,588,500,0,ok
+100,M4,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+100,M4,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 300)
+100,M4,A3b,omit,middle,-,294,587,500,0,ok
+100,M4,A3b,omit,last,-,587,587,500,0,ok
+500,M0,none,none,-,-,-1,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,naive,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,naive,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,edit,rehash,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,delete,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,reorder,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,insert,rehash,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,edit,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,delete,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,reorder,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,history,0,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,history,250,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,history,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,tail,500,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,tail,544,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,tail,586,588,500,0,no integrity mechanism; nothing to check
+500,M0,A2,insert,resign,tail,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,truncate,drop1,within_window,587,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,truncate,drop89,past_anchor,499,588,500,0,no integrity mechanism; nothing to check
+500,M0,A1,truncate,drop294,past_anchor,294,588,500,0,no integrity mechanism; nothing to check
+500,M0,A3b,omit,middle,-,294,587,500,0,no integrity mechanism; nothing to check
+500,M0,A3b,omit,last,-,587,587,500,0,no integrity mechanism; nothing to check
+500,M1,none,none,-,-,-1,588,500,0,ok
+500,M1,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+500,M1,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+500,M1,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+500,M1,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+500,M1,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+500,M1,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+500,M1,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+500,M1,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+500,M1,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+500,M1,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+500,M1,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+500,M1,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+500,M1,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+500,M1,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+500,M1,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+500,M1,A1,edit,rehash,history,0,588,500,1,invalid signature
+500,M1,A1,edit,rehash,history,250,588,500,1,invalid signature
+500,M1,A1,edit,rehash,history,499,588,500,1,invalid signature
+500,M1,A1,edit,rehash,tail,500,588,500,1,invalid signature
+500,M1,A1,edit,rehash,tail,544,588,500,1,invalid signature
+500,M1,A1,edit,rehash,tail,586,588,500,1,invalid signature
+500,M1,A1,edit,rehash,tail,587,588,500,1,invalid signature
+500,M1,A1,delete,rehash,history,0,588,500,1,invalid signature
+500,M1,A1,delete,rehash,history,250,588,500,1,invalid signature
+500,M1,A1,delete,rehash,history,499,588,500,1,invalid signature
+500,M1,A1,delete,rehash,tail,500,588,500,1,invalid signature
+500,M1,A1,delete,rehash,tail,544,588,500,1,invalid signature
+500,M1,A1,delete,rehash,tail,586,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,history,0,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,history,250,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,history,499,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+500,M1,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+500,M1,A1,insert,rehash,history,0,588,500,1,invalid signature
+500,M1,A1,insert,rehash,history,250,588,500,1,invalid signature
+500,M1,A1,insert,rehash,history,499,588,500,1,invalid signature
+500,M1,A1,insert,rehash,tail,500,588,500,1,invalid signature
+500,M1,A1,insert,rehash,tail,544,588,500,1,invalid signature
+500,M1,A1,insert,rehash,tail,586,588,500,1,invalid signature
+500,M1,A1,insert,rehash,tail,587,588,500,1,invalid signature
+500,M1,A2,edit,resign,history,0,588,500,0,ok
+500,M1,A2,edit,resign,history,250,588,500,0,ok
+500,M1,A2,edit,resign,history,499,588,500,0,ok
+500,M1,A2,edit,resign,tail,500,588,500,0,ok
+500,M1,A2,edit,resign,tail,544,588,500,0,ok
+500,M1,A2,edit,resign,tail,586,588,500,0,ok
+500,M1,A2,edit,resign,tail,587,588,500,0,ok
+500,M1,A2,delete,resign,history,0,588,500,0,ok
+500,M1,A2,delete,resign,history,250,588,500,0,ok
+500,M1,A2,delete,resign,history,499,588,500,0,ok
+500,M1,A2,delete,resign,tail,500,588,500,0,ok
+500,M1,A2,delete,resign,tail,544,588,500,0,ok
+500,M1,A2,delete,resign,tail,586,588,500,0,ok
+500,M1,A2,delete,resign,tail,587,588,500,0,ok
+500,M1,A2,reorder,resign,history,0,588,500,0,ok
+500,M1,A2,reorder,resign,history,250,588,500,0,ok
+500,M1,A2,reorder,resign,history,499,588,500,0,ok
+500,M1,A2,reorder,resign,tail,500,588,500,0,ok
+500,M1,A2,reorder,resign,tail,544,588,500,0,ok
+500,M1,A2,reorder,resign,tail,586,588,500,0,ok
+500,M1,A2,insert,resign,history,0,588,500,0,ok
+500,M1,A2,insert,resign,history,250,588,500,0,ok
+500,M1,A2,insert,resign,history,499,588,500,0,ok
+500,M1,A2,insert,resign,tail,500,588,500,0,ok
+500,M1,A2,insert,resign,tail,544,588,500,0,ok
+500,M1,A2,insert,resign,tail,586,588,500,0,ok
+500,M1,A2,insert,resign,tail,587,588,500,0,ok
+500,M1,A1,truncate,drop1,within_window,587,588,500,0,ok
+500,M1,A1,truncate,drop89,past_anchor,499,588,500,0,ok
+500,M1,A1,truncate,drop294,past_anchor,294,588,500,0,ok
+500,M1,A3b,omit,middle,-,294,587,500,0,ok
+500,M1,A3b,omit,last,-,587,587,500,0,ok
+500,M2,none,none,-,-,-1,588,500,0,ok
+500,M2,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+500,M2,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+500,M2,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+500,M2,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+500,M2,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+500,M2,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+500,M2,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+500,M2,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+500,M2,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+500,M2,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+500,M2,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+500,M2,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+500,M2,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+500,M2,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+500,M2,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+500,M2,A1,edit,rehash,history,0,588,500,1,invalid signature
+500,M2,A1,edit,rehash,history,250,588,500,1,invalid signature
+500,M2,A1,edit,rehash,history,499,588,500,1,invalid signature
+500,M2,A1,edit,rehash,tail,500,588,500,1,invalid signature
+500,M2,A1,edit,rehash,tail,544,588,500,1,invalid signature
+500,M2,A1,edit,rehash,tail,586,588,500,1,invalid signature
+500,M2,A1,edit,rehash,tail,587,588,500,1,invalid signature
+500,M2,A1,delete,rehash,history,0,588,500,1,invalid signature
+500,M2,A1,delete,rehash,history,250,588,500,1,invalid signature
+500,M2,A1,delete,rehash,history,499,588,500,1,invalid signature
+500,M2,A1,delete,rehash,tail,500,588,500,1,invalid signature
+500,M2,A1,delete,rehash,tail,544,588,500,1,invalid signature
+500,M2,A1,delete,rehash,tail,586,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,history,0,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,history,250,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,history,499,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+500,M2,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+500,M2,A1,insert,rehash,history,0,588,500,1,invalid signature
+500,M2,A1,insert,rehash,history,250,588,500,1,invalid signature
+500,M2,A1,insert,rehash,history,499,588,500,1,invalid signature
+500,M2,A1,insert,rehash,tail,500,588,500,1,invalid signature
+500,M2,A1,insert,rehash,tail,544,588,500,1,invalid signature
+500,M2,A1,insert,rehash,tail,586,588,500,1,invalid signature
+500,M2,A1,insert,rehash,tail,587,588,500,1,invalid signature
+500,M2,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,edit,resign,tail,500,588,500,0,ok
+500,M2,A2,edit,resign,tail,544,588,500,0,ok
+500,M2,A2,edit,resign,tail,586,588,500,0,ok
+500,M2,A2,edit,resign,tail,587,588,500,0,ok
+500,M2,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,delete,resign,tail,500,588,500,0,ok
+500,M2,A2,delete,resign,tail,544,588,500,0,ok
+500,M2,A2,delete,resign,tail,586,588,500,0,ok
+500,M2,A2,delete,resign,tail,587,588,500,0,ok
+500,M2,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,reorder,resign,tail,500,588,500,0,ok
+500,M2,A2,reorder,resign,tail,544,588,500,0,ok
+500,M2,A2,reorder,resign,tail,586,588,500,0,ok
+500,M2,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M2,A2,insert,resign,tail,500,588,500,0,ok
+500,M2,A2,insert,resign,tail,544,588,500,0,ok
+500,M2,A2,insert,resign,tail,586,588,500,0,ok
+500,M2,A2,insert,resign,tail,587,588,500,0,ok
+500,M2,A1,truncate,drop1,within_window,587,588,500,0,ok
+500,M2,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+500,M2,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 500)
+500,M2,A3b,omit,middle,-,294,587,500,0,ok
+500,M2,A3b,omit,last,-,587,587,500,0,ok
+500,M3,none,none,-,-,-1,588,500,0,ok
+500,M3,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+500,M3,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+500,M3,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+500,M3,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+500,M3,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+500,M3,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+500,M3,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+500,M3,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+500,M3,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+500,M3,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+500,M3,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+500,M3,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+500,M3,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+500,M3,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+500,M3,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+500,M3,A1,edit,rehash,history,0,588,500,1,invalid signature
+500,M3,A1,edit,rehash,history,250,588,500,1,invalid signature
+500,M3,A1,edit,rehash,history,499,588,500,1,invalid signature
+500,M3,A1,edit,rehash,tail,500,588,500,1,invalid signature
+500,M3,A1,edit,rehash,tail,544,588,500,1,invalid signature
+500,M3,A1,edit,rehash,tail,586,588,500,1,invalid signature
+500,M3,A1,edit,rehash,tail,587,588,500,1,invalid signature
+500,M3,A1,delete,rehash,history,0,588,500,1,invalid signature
+500,M3,A1,delete,rehash,history,250,588,500,1,invalid signature
+500,M3,A1,delete,rehash,history,499,588,500,1,invalid signature
+500,M3,A1,delete,rehash,tail,500,588,500,1,invalid signature
+500,M3,A1,delete,rehash,tail,544,588,500,1,invalid signature
+500,M3,A1,delete,rehash,tail,586,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,history,0,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,history,250,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,history,499,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+500,M3,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+500,M3,A1,insert,rehash,history,0,588,500,1,invalid signature
+500,M3,A1,insert,rehash,history,250,588,500,1,invalid signature
+500,M3,A1,insert,rehash,history,499,588,500,1,invalid signature
+500,M3,A1,insert,rehash,tail,500,588,500,1,invalid signature
+500,M3,A1,insert,rehash,tail,544,588,500,1,invalid signature
+500,M3,A1,insert,rehash,tail,586,588,500,1,invalid signature
+500,M3,A1,insert,rehash,tail,587,588,500,1,invalid signature
+500,M3,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,edit,resign,tail,500,588,500,0,ok
+500,M3,A2,edit,resign,tail,544,588,500,0,ok
+500,M3,A2,edit,resign,tail,586,588,500,0,ok
+500,M3,A2,edit,resign,tail,587,588,500,0,ok
+500,M3,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,delete,resign,tail,500,588,500,0,ok
+500,M3,A2,delete,resign,tail,544,588,500,0,ok
+500,M3,A2,delete,resign,tail,586,588,500,0,ok
+500,M3,A2,delete,resign,tail,587,588,500,0,ok
+500,M3,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,reorder,resign,tail,500,588,500,0,ok
+500,M3,A2,reorder,resign,tail,544,588,500,0,ok
+500,M3,A2,reorder,resign,tail,586,588,500,0,ok
+500,M3,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M3,A2,insert,resign,tail,500,588,500,0,ok
+500,M3,A2,insert,resign,tail,544,588,500,0,ok
+500,M3,A2,insert,resign,tail,586,588,500,0,ok
+500,M3,A2,insert,resign,tail,587,588,500,0,ok
+500,M3,A1,truncate,drop1,within_window,587,588,500,0,ok
+500,M3,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+500,M3,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 500)
+500,M3,A3b,omit,middle,-,294,587,500,0,ok
+500,M3,A3b,omit,last,-,587,587,500,0,ok
+500,M4,none,none,-,-,-1,588,500,0,ok
+500,M4,A1,edit,naive,history,0,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,history,250,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,history,499,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,tail,500,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,tail,544,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,tail,586,588,500,1,entry hash does not match content
+500,M4,A1,edit,naive,tail,587,588,500,1,entry hash does not match content
+500,M4,A1,delete,naive,history,0,588,500,1,"sequence gap or reorder: expected 0, found 1"
+500,M4,A1,delete,naive,history,250,588,500,1,"sequence gap or reorder: expected 250, found 251"
+500,M4,A1,delete,naive,history,499,588,500,1,"sequence gap or reorder: expected 499, found 500"
+500,M4,A1,delete,naive,tail,500,588,500,1,"sequence gap or reorder: expected 500, found 501"
+500,M4,A1,delete,naive,tail,544,588,500,1,"sequence gap or reorder: expected 544, found 545"
+500,M4,A1,delete,naive,tail,586,588,500,1,"sequence gap or reorder: expected 586, found 587"
+500,M4,A1,reorder,naive,history,0,588,500,1,broken link to previous entry
+500,M4,A1,reorder,naive,history,250,588,500,1,broken link to previous entry
+500,M4,A1,reorder,naive,history,499,588,500,1,broken link to previous entry
+500,M4,A1,reorder,naive,tail,500,588,500,1,broken link to previous entry
+500,M4,A1,reorder,naive,tail,544,588,500,1,broken link to previous entry
+500,M4,A1,reorder,naive,tail,586,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,history,0,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,history,250,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,history,499,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,tail,500,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,tail,544,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,tail,586,588,500,1,broken link to previous entry
+500,M4,A1,insert,naive,tail,587,588,500,1,broken link to previous entry
+500,M4,A1,edit,rehash,history,0,588,500,1,invalid signature
+500,M4,A1,edit,rehash,history,250,588,500,1,invalid signature
+500,M4,A1,edit,rehash,history,499,588,500,1,invalid signature
+500,M4,A1,edit,rehash,tail,500,588,500,1,invalid signature
+500,M4,A1,edit,rehash,tail,544,588,500,1,invalid signature
+500,M4,A1,edit,rehash,tail,586,588,500,1,invalid signature
+500,M4,A1,edit,rehash,tail,587,588,500,1,invalid signature
+500,M4,A1,delete,rehash,history,0,588,500,1,invalid signature
+500,M4,A1,delete,rehash,history,250,588,500,1,invalid signature
+500,M4,A1,delete,rehash,history,499,588,500,1,invalid signature
+500,M4,A1,delete,rehash,tail,500,588,500,1,invalid signature
+500,M4,A1,delete,rehash,tail,544,588,500,1,invalid signature
+500,M4,A1,delete,rehash,tail,586,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,history,0,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,history,250,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,history,499,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,tail,500,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,tail,544,588,500,1,invalid signature
+500,M4,A1,reorder,rehash,tail,586,588,500,1,invalid signature
+500,M4,A1,insert,rehash,history,0,588,500,1,invalid signature
+500,M4,A1,insert,rehash,history,250,588,500,1,invalid signature
+500,M4,A1,insert,rehash,history,499,588,500,1,invalid signature
+500,M4,A1,insert,rehash,tail,500,588,500,1,invalid signature
+500,M4,A1,insert,rehash,tail,544,588,500,1,invalid signature
+500,M4,A1,insert,rehash,tail,586,588,500,1,invalid signature
+500,M4,A1,insert,rehash,tail,587,588,500,1,invalid signature
+500,M4,A2,edit,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,edit,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,edit,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,edit,resign,tail,500,588,500,0,ok
+500,M4,A2,edit,resign,tail,544,588,500,0,ok
+500,M4,A2,edit,resign,tail,586,588,500,0,ok
+500,M4,A2,edit,resign,tail,587,588,500,0,ok
+500,M4,A2,delete,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,delete,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,delete,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,delete,resign,tail,500,588,500,0,ok
+500,M4,A2,delete,resign,tail,544,588,500,0,ok
+500,M4,A2,delete,resign,tail,586,588,500,0,ok
+500,M4,A2,delete,resign,tail,587,588,500,0,ok
+500,M4,A2,reorder,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,reorder,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,reorder,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,reorder,resign,tail,500,588,500,0,ok
+500,M4,A2,reorder,resign,tail,544,588,500,0,ok
+500,M4,A2,reorder,resign,tail,586,588,500,0,ok
+500,M4,A2,insert,resign,history,0,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,insert,resign,history,250,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,insert,resign,history,499,588,500,1,history before the anchor differs from what was anchored
+500,M4,A2,insert,resign,tail,500,588,500,0,ok
+500,M4,A2,insert,resign,tail,544,588,500,0,ok
+500,M4,A2,insert,resign,tail,586,588,500,0,ok
+500,M4,A2,insert,resign,tail,587,588,500,0,ok
+500,M4,A1,truncate,drop1,within_window,587,588,500,0,ok
+500,M4,A1,truncate,drop89,past_anchor,499,588,500,1,log shorter than anchored length (499 < 500)
+500,M4,A1,truncate,drop294,past_anchor,294,588,500,1,log shorter than anchored length (294 < 500)
+500,M4,A3b,omit,middle,-,294,587,500,0,ok
+500,M4,A3b,omit,last,-,587,587,500,0,ok

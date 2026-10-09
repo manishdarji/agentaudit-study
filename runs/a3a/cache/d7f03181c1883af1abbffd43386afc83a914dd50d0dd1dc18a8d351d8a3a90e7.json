@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_03197d8b-713a-49af-a2d5-97dbd37eb9c7", "type": "function", "function": {"name": "log_read", "arguments": "{\"seq\":5}"}}]}, "usage": {"prompt_tokens": 964, "completion_tokens": 87, "total_tokens": 1051}}

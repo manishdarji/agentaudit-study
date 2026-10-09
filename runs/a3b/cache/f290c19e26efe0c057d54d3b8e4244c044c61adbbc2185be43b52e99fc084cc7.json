@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_debc248d-a4e0-4f21-9185-60ca28a48e49", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Falcon project owner\"}"}}]}, "usage": {"prompt_tokens": 523, "completion_tokens": 43, "total_tokens": 566}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_8ef29662-25dd-4ac3-9d74-556fd899ae32", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Cinder owner email\"}"}}]}, "usage": {"prompt_tokens": 385, "completion_tokens": 41, "total_tokens": 426}}

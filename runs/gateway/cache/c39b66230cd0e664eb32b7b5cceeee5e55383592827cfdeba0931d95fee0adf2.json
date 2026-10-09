@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_60c7a45a-ca26-4345-9887-a750cf73bb41", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Lumen owner\"}"}}]}, "usage": {"prompt_tokens": 385, "completion_tokens": 45, "total_tokens": 430}}

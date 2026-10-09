@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_8387a7ec-ebe1-448b-904d-fb512ad6ecce", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Granite project headcount\"}"}}]}, "usage": {"prompt_tokens": 566, "completion_tokens": 28, "total_tokens": 594}}

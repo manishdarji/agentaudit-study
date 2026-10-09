@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_6f94ba44-7fb5-4534-8033-f752ced538e7", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Juniper budget project Lumen budget\"}"}}]}, "usage": {"prompt_tokens": 340, "completion_tokens": 38, "total_tokens": 378}}

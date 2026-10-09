@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_f251dda9-b62a-412a-9686-1bfe6adfb078", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"owner of project Ember\"}"}}]}, "usage": {"prompt_tokens": 383, "completion_tokens": 44, "total_tokens": 427}}

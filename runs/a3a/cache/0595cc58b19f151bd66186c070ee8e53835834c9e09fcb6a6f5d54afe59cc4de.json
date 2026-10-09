@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_f39dc652-43d6-4f99-9aef-a74f52a15f31", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"delta budget\"}"}}]}, "usage": {"prompt_tokens": 812, "completion_tokens": 30, "total_tokens": 842}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_db82a104-4229-4c94-92d2-5ae13aace376", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/falcon.txt\"}"}}]}, "usage": {"prompt_tokens": 481, "completion_tokens": 59, "total_tokens": 540}}

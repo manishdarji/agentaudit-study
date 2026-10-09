@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_2c2f1e43-4ec0-46b9-aa45-587bf5675bd8", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Delta owner deadline\"}"}}]}, "usage": {"prompt_tokens": 338, "completion_tokens": 35, "total_tokens": 373}}

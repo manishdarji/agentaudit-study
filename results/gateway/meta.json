@@ -1,0 +1,58 @@
+{
+  "logging_point": "gateway",
+  "model": "openai/gpt-oss-20b",
+  "events": 588,
+  "ks": [
+    10,
+    50,
+    100,
+    500
+  ],
+  "assumptions": {
+    "gas_price_gwei_l1": 30.0,
+    "gas_price_gwei_l2": 0.01,
+    "eth_usd": 2500.0,
+    "note": "execution gas only; L2 data fees not included"
+  },
+  "skipped": {},
+  "ts": "2026-10-07 23:37:37",
+  "options": {
+    "tsa_url": null,
+    "tsa_ca": null,
+    "tsa_untrusted": null,
+    "rpc_url": null,
+    "contract": null
+  },
+  "truth_calls": 294,
+  "logged_calls": 294,
+  "coverage": 1.0,
+  "per_tool": {
+    "calculator": {
+      "truth": 29,
+      "logged": 29
+    },
+    "read_file": {
+      "truth": 20,
+      "logged": 20
+    },
+    "search_docs": {
+      "truth": 145,
+      "logged": 145
+    },
+    "send_email": {
+      "truth": 40,
+      "logged": 40
+    },
+    "write_file": {
+      "truth": 60,
+      "logged": 60
+    }
+  },
+  "versions": {
+    "cryptography": "44.0.0",
+    "web3": "8.0.0",
+    "vyper": "0.4.3",
+    "eth-tester": "0.14.0b1",
+    "py-evm": "0.12.1b1"
+  }
+}

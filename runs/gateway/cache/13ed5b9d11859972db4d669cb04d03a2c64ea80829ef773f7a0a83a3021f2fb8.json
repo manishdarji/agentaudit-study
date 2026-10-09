@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_2221ef17-6ed6-4d73-99a1-101b65eeb9d7", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"headcount Cinder Lumen Ion\"}"}}]}, "usage": {"prompt_tokens": 344, "completion_tokens": 38, "total_tokens": 382}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_77ba8ea2-ab7b-419b-b149-766911d6a429", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Krypton headcount\"}"}}]}, "usage": {"prompt_tokens": 676, "completion_tokens": 28, "total_tokens": 704}}

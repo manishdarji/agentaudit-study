@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_08680023-a405-49e0-94c8-60ad9099dfa3", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"Project Falcon\",\"path\":\"results/t002.txt\"}"}}]}, "usage": {"prompt_tokens": 698, "completion_tokens": 80, "total_tokens": 778}}

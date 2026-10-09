@@ -1,0 +1,6 @@
+cryptography
+pytest
+web3
+eth-tester[py-evm]
+vyper
+python-dotenv

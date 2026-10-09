@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_e624c8d1-94c6-416a-a87d-8200166d0983", "type": "function", "function": {"name": "calculator", "arguments": "{\"expression\":\"6+10+29\"}"}}]}, "usage": {"prompt_tokens": 819, "completion_tokens": 39, "total_tokens": 858}}

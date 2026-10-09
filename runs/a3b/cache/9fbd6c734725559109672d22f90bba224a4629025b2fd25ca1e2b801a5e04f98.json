@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_f929d950-7be1-4a3f-b50d-a5d715f24620", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Borealis headcount\"}"}}]}, "usage": {"prompt_tokens": 705, "completion_tokens": 29, "total_tokens": 734}}

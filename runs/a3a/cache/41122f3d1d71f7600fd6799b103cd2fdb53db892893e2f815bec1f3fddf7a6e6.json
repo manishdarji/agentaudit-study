@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_f32f9041-3530-442a-8969-4fd127463bb0", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Falcon headcount\"}"}}]}, "usage": {"prompt_tokens": 564, "completion_tokens": 34, "total_tokens": 598}}

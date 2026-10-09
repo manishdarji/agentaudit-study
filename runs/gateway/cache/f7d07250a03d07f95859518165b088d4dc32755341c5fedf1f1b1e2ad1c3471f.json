@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_a017593c-60a2-4658-bfe8-f967c6e82a6e", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Lumen headcount\"}"}}]}, "usage": {"prompt_tokens": 455, "completion_tokens": 31, "total_tokens": 486}}

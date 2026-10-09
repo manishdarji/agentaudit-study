@@ -1,0 +1,23 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and test cache
+.idea/
+.vscode/
+.pytest_cache/
+
+# Generated logs and local databases
+*.db
+*.sqlite
+*.sqlite3
+groq_budget.json
+llm_cache/

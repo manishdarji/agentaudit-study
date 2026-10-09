@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_5377ad5b-2881-4ba6-9d3c-c87d4993af6a", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/ember.txt\"}"}}]}, "usage": {"prompt_tokens": 481, "completion_tokens": 59, "total_tokens": 540}}

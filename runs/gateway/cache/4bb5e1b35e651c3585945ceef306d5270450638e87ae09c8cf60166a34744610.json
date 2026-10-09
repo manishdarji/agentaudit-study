@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_03a7de18-fd8c-4112-8436-93523d84012e", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Harbor owner deadline\"}"}}]}, "usage": {"prompt_tokens": 338, "completion_tokens": 35, "total_tokens": 373}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_552a9be6-cd3e-4c68-9f3c-2af92da401f2", "type": "function", "function": {"name": "calculator", "arguments": "{\"expression\":\"29+4+8\"}"}}]}, "usage": {"prompt_tokens": 683, "completion_tokens": 39, "total_tokens": 722}}

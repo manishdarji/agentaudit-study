@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_7304cbc9-b054-4c59-8197-0eb921de1c93", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"10250\",\"path\":\"results/t015.txt\"}"}}]}, "usage": {"prompt_tokens": 491, "completion_tokens": 32, "total_tokens": 523}}

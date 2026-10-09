@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_67e1207d-9fe6-4df3-9839-7037a9f77a3f", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Krypton owner deadline\"}"}}]}, "usage": {"prompt_tokens": 339, "completion_tokens": 37, "total_tokens": 376}}

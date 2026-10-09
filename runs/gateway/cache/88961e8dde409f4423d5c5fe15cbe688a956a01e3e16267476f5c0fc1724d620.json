@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_fec656d2-0d55-479b-b5c5-0141171196c4", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"Project Delta\",\"path\":\"results/t022.txt\"}"}}]}, "usage": {"prompt_tokens": 557, "completion_tokens": 53, "total_tokens": 610}}

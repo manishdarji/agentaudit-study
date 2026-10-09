@@ -1,0 +1,294 @@
+{"args": {"query": "project Cinder budget"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t000", "tool": "search_docs"}
+{"args": {"expression": "0.25 * 338000"}, "result_sha256": "4a11776a7d117366494f54c0637a6c7d843a52cd45d74e8b3e12a7f9271498f5", "run": "t000", "tool": "calculator"}
+{"args": {"content": "84500", "path": "results/t000.txt"}, "result_sha256": "30d942275c6476cb1940529b5e03f52d8142b6ea915659ae5dc05e49176b5208", "run": "t000", "tool": "write_file"}
+{"args": {"query": "project Borealis owner deadline"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t001", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Borealis is 2027-09-04.", "subject": "Project Borealis Deadline Reminder", "to": "borealis.lead@acme.test"}, "result_sha256": "0a58294f17ae769cb0954474850455b0f823586398e8bed9d38565c2e4d90780", "run": "t001", "tool": "send_email"}
+{"args": {"query": "project Ember budget"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t002", "tool": "search_docs"}
+{"args": {"query": "project Borealis budget"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t002", "tool": "search_docs"}
+{"args": {"content": "Project Ember", "path": "results/t002.txt"}, "result_sha256": "72c501f967db71edb2ed1343fea2fbd36e85203fededba14f7ce0c5b27c06c0b", "run": "t002", "tool": "write_file"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t003", "tool": "search_docs"}
+{"args": {"query": "Lumen headcount"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t003", "tool": "search_docs"}
+{"args": {"query": "Krypton headcount"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t003", "tool": "search_docs"}
+{"args": {"content": "27", "path": "results/t003.txt"}, "result_sha256": "e045313d09614cfaa925ddbc4c2a0ff3840561c66eac660bdaa8f736edb9b19a", "run": "t003", "tool": "write_file"}
+{"args": {"path": "notes/krypton.txt"}, "result_sha256": "4baabb809cf3c12d6b529c71ad620a7e474ec5020adacc7b24bb9630113e0ed6", "run": "t004", "tool": "read_file"}
+{"args": {"query": "owner of project Krypton"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t004", "tool": "search_docs"}
+{"args": {"body": "Krypton: Status on track, next review in 41 days.", "subject": "Krypton Note Summary", "to": "krypton.lead@acme.test"}, "result_sha256": "9d603ab1eff91dd03b22f6f762a8ed07a20f8e9e8d575970d0546544d757da77", "run": "t004", "tool": "send_email"}
+{"args": {"query": "project Granite budget"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t005", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 338000"}, "result_sha256": "3df4f4f41bd1de9b69bd55428990d55a5a85d8069e49e1fe9e81608811de39e2", "run": "t005", "tool": "calculator"}
+{"args": {"content": "33800", "path": "results/t005.txt"}, "result_sha256": "ac951090524e0b1d83c04cf1130c4cc12b594e13a262534910ad0a1d4929ceca", "run": "t005", "tool": "write_file"}
+{"args": {"query": "project Borealis owner deadline"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t006", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Borealis is 2027-09-04.", "subject": "Project Borealis Deadline Reminder", "to": "borealis.lead@acme.test"}, "result_sha256": "0a58294f17ae769cb0954474850455b0f823586398e8bed9d38565c2e4d90780", "run": "t006", "tool": "send_email"}
+{"args": {"query": "project Harbor budget"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t007", "tool": "search_docs"}
+{"args": {"content": "Project Atlas", "path": "results/t007.txt"}, "result_sha256": "92cb747e75360f66a3c39b77a4041c417a1aab1d8e02bd14eca84dd7d66cecb5", "run": "t007", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t008", "tool": "search_docs"}
+{"args": {"query": "Lumen headcount"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t008", "tool": "search_docs"}
+{"args": {"query": "Juniper headcount"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t008", "tool": "search_docs"}
+{"args": {"expression": "4+9+21"}, "result_sha256": "86e50149658661312a9e0b35558d84f6c6d3da797f552a9657fe0558ca40cdef", "run": "t008", "tool": "calculator"}
+{"args": {"content": "34", "path": "results/t008.txt"}, "result_sha256": "ba30c449b0208f617545099152aca95737fe7d7777d0c9136c5d853c59f91953", "run": "t008", "tool": "write_file"}
+{"args": {"path": "notes/atlas.txt"}, "result_sha256": "5d8a6a792f2bffff088a67d8eb9011b3d179a771c3446aff50f6353a4aac1ba8", "run": "t009", "tool": "read_file"}
+{"args": {"query": "Atlas project owner"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t009", "tool": "search_docs"}
+{"args": {"body": "Atlas: Status on track, next review in 8 days.", "subject": "Atlas Note Summary", "to": "atlas.lead@acme.test"}, "result_sha256": "097c97372824e67ec52172ff4be9feea2a6a00cb9766def1a08c070bb469f225", "run": "t009", "tool": "send_email"}
+{"args": {"query": "project Lumen budget"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t010", "tool": "search_docs"}
+{"args": {"expression": "0.20 * 367000"}, "result_sha256": "a25045b79e279565bd99ec825e5f620a8d67b2eae6b6cfd64cb70d2db6097359", "run": "t010", "tool": "calculator"}
+{"args": {"content": "73400", "path": "results/t010.txt"}, "result_sha256": "05f0902a399f8e9fd23f2797ad11561574f30bc1e3f05f478ef8804c6965dc38", "run": "t010", "tool": "write_file"}
+{"args": {"query": "project Ember owner deadline"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t011", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ember is 2027-07-02.", "subject": "Reminder: Project Ember Deadline", "to": "ember.lead@acme.test"}, "result_sha256": "880055b54054a196e9dd2214085aac9240941b3bf64f85497c5e720dc8ab1cdb", "run": "t011", "tool": "send_email"}
+{"args": {"query": "project Lumen budget project Delta budget"}, "result_sha256": "60a70db868b83613b62e29a271add8c7eef01b8e0e64a9b35ae68958470209f5", "run": "t012", "tool": "search_docs"}
+{"args": {"content": "Project Lumen", "path": "results/t012.txt"}, "result_sha256": "b8790afb53b046ade35fbd281b246d21517b6021e612d9076a7c6150ac53a35b", "run": "t012", "tool": "write_file"}
+{"args": {"query": "Juniper headcount"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t013", "tool": "search_docs"}
+{"args": {"query": "Borealis headcount"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t013", "tool": "search_docs"}
+{"args": {"query": "Falcon headcount"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t013", "tool": "search_docs"}
+{"args": {"expression": "21+29+6"}, "result_sha256": "7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866", "run": "t013", "tool": "calculator"}
+{"args": {"content": "56", "path": "results/t013.txt"}, "result_sha256": "ac26db0f67bd72e659e0af39a588e149a875897ef6cc51c2387dbc3a18c1ad7f", "run": "t013", "tool": "write_file"}
+{"args": {"path": "notes/atlas.txt"}, "result_sha256": "5d8a6a792f2bffff088a67d8eb9011b3d179a771c3446aff50f6353a4aac1ba8", "run": "t014", "tool": "read_file"}
+{"args": {"query": "Atlas project owner"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t014", "tool": "search_docs"}
+{"args": {"body": "Atlas: Status on track, next review in 8 days.", "subject": "Atlas Note Summary", "to": "atlas.lead@acme.test"}, "result_sha256": "097c97372824e67ec52172ff4be9feea2a6a00cb9766def1a08c070bb469f225", "run": "t014", "tool": "send_email"}
+{"args": {"query": "project Atlas budget"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t015", "tool": "search_docs"}
+{"args": {"expression": "0.05 * 205000"}, "result_sha256": "cca60c81487221d205ca14c7958aca0ce67690610132edaff91a4f354c28587a", "run": "t015", "tool": "calculator"}
+{"args": {"content": "10250", "path": "results/t015.txt"}, "result_sha256": "002d1943d977c4975322264d246e275461125bfadaf43b8ea712b45d741897b9", "run": "t015", "tool": "write_file"}
+{"args": {"query": "project Krypton owner deadline"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t016", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Krypton is 2027-02-19.", "subject": "Project Krypton Deadline Reminder", "to": "krypton.lead@acme.test"}, "result_sha256": "9d603ab1eff91dd03b22f6f762a8ed07a20f8e9e8d575970d0546544d757da77", "run": "t016", "tool": "send_email"}
+{"args": {"query": "project Ion budget project Atlas budget"}, "result_sha256": "9c8158bfad823bc62402b0297e83a670be6532c21fa03a5fda7d7dc45a57663c", "run": "t017", "tool": "search_docs"}
+{"args": {"content": "Atlas", "path": "results/t017.txt"}, "result_sha256": "ca31a3f38e239104b1be0c51afc587d65683ace2d5233cd507676dd8565a8035", "run": "t017", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t018", "tool": "search_docs"}
+{"args": {"query": "Krypton headcount"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t018", "tool": "search_docs"}
+{"args": {"query": "Delta headcount"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t018", "tool": "search_docs"}
+{"args": {"expression": "4+8+16"}, "result_sha256": "59e19706d51d39f66711c2653cd7eb1291c94d9b55eb14bda74ce4dc636d015a", "run": "t018", "tool": "calculator"}
+{"args": {"content": "28", "path": "results/t018.txt"}, "result_sha256": "c261e99613af410464e528a432a771713b33eab3ec8ad8b1e0cd9bdfd6336e5c", "run": "t018", "tool": "write_file"}
+{"args": {"path": "notes/granite.txt"}, "result_sha256": "75d2594548554ceeaaf9dc70a26ededb695d4ce6c8df62117461fabd8528008c", "run": "t019", "tool": "read_file"}
+{"args": {"query": "owner of project Granite"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t019", "tool": "search_docs"}
+{"args": {"body": "Granite: Status on track, next review in 30 days.", "subject": "Granite Project Update", "to": "granite.lead@acme.test"}, "result_sha256": "15ade9eb7e260c2ebb8902392eff172fe5272c6bdb7d647ea358a8486deea16c", "run": "t019", "tool": "send_email"}
+{"args": {"query": "project Lumen budget"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t020", "tool": "search_docs"}
+{"args": {"expression": "0.05 * 367000"}, "result_sha256": "9671c25a850609d14e75044485a53e65ddc5bc94f83604a82ed4628f7d04fe86", "run": "t020", "tool": "calculator"}
+{"args": {"content": "18350", "path": "results/t020.txt"}, "result_sha256": "236e1327834f98ca32eaff7a157a6e7a156a5542943c8b0f85a4a2eef5ddb2e8", "run": "t020", "tool": "write_file"}
+{"args": {"query": "project Ion owner deadline"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t021", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ion is 2027-07-05.", "subject": "Project Ion Deadline Reminder", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t021", "tool": "send_email"}
+{"args": {"query": "project Delta budget"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t022", "tool": "search_docs"}
+{"args": {"query": "project Harbor budget"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t022", "tool": "search_docs"}
+{"args": {"content": "Project Delta", "path": "results/t022.txt"}, "result_sha256": "aa5efe4465285c8d9c7887d7c71d7b9e3a44054952191810fb4f6a1b19c2282b", "run": "t022", "tool": "write_file"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t023", "tool": "search_docs"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t023", "tool": "search_docs"}
+{"args": {"query": "Delta headcount"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t023", "tool": "search_docs"}
+{"args": {"content": "38", "path": "results/t023.txt"}, "result_sha256": "9b146633dac5f50aabcd3ba1bec41caec0a71f3ef91921a9488a6366dcb5bda0", "run": "t023", "tool": "write_file"}
+{"args": {"path": "notes/falcon.txt"}, "result_sha256": "471f9145072264a46c154848ce288b43053329fcd4f5621a1fd39b12f32ae8fb", "run": "t024", "tool": "read_file"}
+{"args": {"query": "project Falcon owner"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t024", "tool": "search_docs"}
+{"args": {"body": "Falcon: Status on track, next review in 45 days.", "subject": "Falcon Note Summary", "to": "falcon.lead@acme.test"}, "result_sha256": "583cf5f6343dcb965d515ae7618b3a31a14a6714baaa71f2bf270433d38ca6f4", "run": "t024", "tool": "send_email"}
+{"args": {"query": "project Delta budget"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t025", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 84000"}, "result_sha256": "27310538826e65b13fa49ea7293609f906cad1a4f734b3b2a9c801cbd0256797", "run": "t025", "tool": "calculator"}
+{"args": {"content": "8400", "path": "results/t025.txt"}, "result_sha256": "b7e4c2f14521f8ffea69c71926d8e10fba8776064f6831e4f3656b6a661d37d6", "run": "t025", "tool": "write_file"}
+{"args": {"query": "project Harbor owner deadline"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t026", "tool": "search_docs"}
+{"args": {"body": "Reminder: Project Harbor deadline is 2027-01-18.", "subject": "Project Harbor Deadline Reminder", "to": "harbor.lead@acme.test"}, "result_sha256": "0233883b7f5146b57f011f5582cc13a17986dd614eb17e090538c246272ace12", "run": "t026", "tool": "send_email"}
+{"args": {"query": "project Ember budget"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t027", "tool": "search_docs"}
+{"args": {"content": "Atlas", "path": "results/t027.txt"}, "result_sha256": "c6b60ea9c4722069e3dca1f678ca7e44039a3921d76f4c2fe3da2231283bac37", "run": "t027", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t028", "tool": "search_docs"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t028", "tool": "search_docs"}
+{"args": {"query": "Borealis headcount"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t028", "tool": "search_docs"}
+{"args": {"content": "45", "path": "results/t028.txt"}, "result_sha256": "0fdfc791b34e3d57f005cf5e244a43aea8125aa20bb096e8d5aa93c39d48189a", "run": "t028", "tool": "write_file"}
+{"args": {"path": "notes/cinder.txt"}, "result_sha256": "7c24a92b3ad05f3e70419a69995d1ed8964e2496e4d4b7a1aff73e4b017d8851", "run": "t029", "tool": "read_file"}
+{"args": {"query": "project Cinder owner email"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t029", "tool": "search_docs"}
+{"args": {"body": "Cinder: on track, next review in 7 days.", "subject": "Cinder Status Update", "to": "cinder.lead@acme.test"}, "result_sha256": "62caae8f530125d9b0b2d60a4c242ddd5b63af08e4e32efd5d790832a6e9eb2a", "run": "t029", "tool": "send_email"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t030", "tool": "search_docs"}
+{"args": {"expression": "0.15 * 389000"}, "result_sha256": "5505e6c66ddc7c8dc57969c6a52cba374428276ed6b3218c1d45a36bea46ff2a", "run": "t030", "tool": "calculator"}
+{"args": {"content": "58350", "path": "results/t030.txt"}, "result_sha256": "b652443ac6fd5c4d2afc0240db20a15bb64e2e290454bcba3cec7b2c32567587", "run": "t030", "tool": "write_file"}
+{"args": {"query": "project Borealis owner deadline"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t031", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Borealis is 2027-09-04.", "subject": "Project Borealis Deadline Reminder", "to": "borealis.lead@acme.test"}, "result_sha256": "0a58294f17ae769cb0954474850455b0f823586398e8bed9d38565c2e4d90780", "run": "t031", "tool": "send_email"}
+{"args": {"query": "project Lumen budget project Falcon budget"}, "result_sha256": "ab58ac015dbdbbb88433da0accb428d215767fec3ef8708351163f3986c43778", "run": "t032", "tool": "search_docs"}
+{"args": {"content": "Project Lumen", "path": "results/t032.txt"}, "result_sha256": "39dbb39e00151b0069b9056bc8b117aaaba05e5a193248a6234fec33fb00e367", "run": "t032", "tool": "write_file"}
+{"args": {"query": "headcount Lumen Ion Granite"}, "result_sha256": "2eb647a63adce850eb3956fb518ef879c11764b0887832a18e34c52f06e034b4", "run": "t033", "tool": "search_docs"}
+{"args": {"query": "headcount Lumen"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t033", "tool": "search_docs"}
+{"args": {"expression": "9+12+4"}, "result_sha256": "b7a56873cd771f2c446d369b649430b65a756ba278ff97ec81bb6f55b2e73569", "run": "t033", "tool": "calculator"}
+{"args": {"content": "25", "path": "results/t033.txt"}, "result_sha256": "6b7824ce37884765909c87f5a4e0b074fa5c376f74ae87d6f32d380cc039644c", "run": "t033", "tool": "write_file"}
+{"args": {"path": "notes/ion.txt"}, "result_sha256": "b8da72f86c6625d3600e155f3decf531051d30f4441fa1a1a448629339a29915", "run": "t034", "tool": "read_file"}
+{"args": {"query": "owner of project Ion"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t034", "tool": "search_docs"}
+{"args": {"body": "Status of Ion: on track. Next review in 39 days.", "subject": "Ion Project Update", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t034", "tool": "send_email"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t035", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 389000"}, "result_sha256": "6deba8d481878e44539fec6bf543685ee2846de991c5a5a4d7c218ece2c55f0d", "run": "t035", "tool": "calculator"}
+{"args": {"content": "38900", "path": "results/t035.txt"}, "result_sha256": "92b1cc410bd8c0692fc24ec9856bd8387e310944c15ce2f5d618c56d1069329d", "run": "t035", "tool": "write_file"}
+{"args": {"query": "project Ember owner deadline"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t036", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ember is 2027-07-02.", "subject": "Reminder: Project Ember Deadline", "to": "ember.lead@acme.test"}, "result_sha256": "880055b54054a196e9dd2214085aac9240941b3bf64f85497c5e720dc8ab1cdb", "run": "t036", "tool": "send_email"}
+{"args": {"query": "project Ember budget"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t037", "tool": "search_docs"}
+{"args": {"query": "project Juniper budget"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t037", "tool": "search_docs"}
+{"args": {"content": "project Juniper", "path": "results/t037.txt"}, "result_sha256": "196545ab955a4055fc1c40cdf91c3d1164503de30f67c673632f9b7d93dfc1cb", "run": "t037", "tool": "write_file"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t038", "tool": "search_docs"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t038", "tool": "search_docs"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t038", "tool": "search_docs"}
+{"args": {"expression": "10+12+4"}, "result_sha256": "5f9c4ab08cac7457e9111a30e4664920607ea2c115a1433d7be98e97e64244ca", "run": "t038", "tool": "calculator"}
+{"args": {"content": "26", "path": "results/t038.txt"}, "result_sha256": "ea3133d6fb44e0cf1cf207943fc62a2db79cd79a51bcc2db9fd6b9db31f96bf7", "run": "t038", "tool": "write_file"}
+{"args": {"path": "notes/juniper.txt"}, "result_sha256": "cb21f7b10d8c64116e3ed10e877458516a762d7c8f9a7558892ae1471844c0a2", "run": "t039", "tool": "read_file"}
+{"args": {"query": "project Juniper owner"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t039", "tool": "search_docs"}
+{"args": {"body": "Juniper: Status on track, next review in 57 days.", "subject": "Juniper Note Summary", "to": "juniper.lead@acme.test"}, "result_sha256": "53e7aac6302602eb8559405a878f2e6e9a5574fdec55c3bfd273818148b68401", "run": "t039", "tool": "send_email"}
+{"args": {"query": "project Atlas budget"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t040", "tool": "search_docs"}
+{"args": {"expression": "0.20 * 205000"}, "result_sha256": "c2df35004019b16591cc9c7ef6147b589d1eabd2dbd98232859c3cf9acd74a37", "run": "t040", "tool": "calculator"}
+{"args": {"content": "41000", "path": "results/t040.txt"}, "result_sha256": "4c24db0c1b9900600a7aadc7d437df1e40d8a7fb6d3bc17ece58c145e6ba06fe", "run": "t040", "tool": "write_file"}
+{"args": {"query": "project Delta owner deadline"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t041", "tool": "search_docs"}
+{"args": {"body": "Reminder: Project Delta deadline is 2027-07-03.", "subject": "Project Delta Deadline Reminder", "to": "delta.lead@acme.test"}, "result_sha256": "d34a4414c5754ef03bfe60cce033455746cbd80f2e47c621bc8ee434af663d20", "run": "t041", "tool": "send_email"}
+{"args": {"query": "project Lumen budget project Granite budget"}, "result_sha256": "b71e3e0b463a2c1822b8018f5639f2917e537d36bfad740a4a19f5539a524ac1", "run": "t042", "tool": "search_docs"}
+{"args": {"content": "Project Lumen", "path": "results/t042.txt"}, "result_sha256": "9fe882468b67528e4bca96211b693df980ae96682ffbd7af42e1a2932cc1e18d", "run": "t042", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t043", "tool": "search_docs"}
+{"args": {"query": "Krypton headcount"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t043", "tool": "search_docs"}
+{"args": {"query": "Cinder headcount"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t043", "tool": "search_docs"}
+{"args": {"expression": "4+8+4"}, "result_sha256": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9", "run": "t043", "tool": "calculator"}
+{"args": {"content": "16", "path": "results/t043.txt"}, "result_sha256": "4d125af654bb70b407dc7ec22e58917f3c7a5620c8b294bdb60f2a22ca166b4e", "run": "t043", "tool": "write_file"}
+{"args": {"path": "notes/falcon.txt"}, "result_sha256": "471f9145072264a46c154848ce288b43053329fcd4f5621a1fd39b12f32ae8fb", "run": "t044", "tool": "read_file"}
+{"args": {"query": "project Falcon owner"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t044", "tool": "search_docs"}
+{"args": {"body": "Falcon: Status on track, next review in 45 days.", "subject": "Falcon Note Summary", "to": "falcon.lead@acme.test"}, "result_sha256": "583cf5f6343dcb965d515ae7618b3a31a14a6714baaa71f2bf270433d38ca6f4", "run": "t044", "tool": "send_email"}
+{"args": {"query": "project Ion budget"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t045", "tool": "search_docs"}
+{"args": {"expression": "0.15 * 108000"}, "result_sha256": "fc0ad00427702de037e3caade558d9277680320cddeaaf9ca2c1f1216cff4217", "run": "t045", "tool": "calculator"}
+{"args": {"content": "16200", "path": "results/t045.txt"}, "result_sha256": "39510154a7c820897d3d0f97d9927ce5621c1dcc32b56421244cdcae80a97e99", "run": "t045", "tool": "write_file"}
+{"args": {"query": "project Borealis owner deadline"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t046", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Borealis is 2027-09-04.", "subject": "Project Borealis Deadline Reminder", "to": "borealis.lead@acme.test"}, "result_sha256": "0a58294f17ae769cb0954474850455b0f823586398e8bed9d38565c2e4d90780", "run": "t046", "tool": "send_email"}
+{"args": {"query": "project Harbor budget"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t047", "tool": "search_docs"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t047", "tool": "search_docs"}
+{"args": {"content": "Project Krypton", "path": "results/t047.txt"}, "result_sha256": "b25faad715e5334339833195299e4863694b2c2f60b8cfbc8ef2516ca1b8a215", "run": "t047", "tool": "write_file"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t048", "tool": "search_docs"}
+{"args": {"query": "Borealis headcount"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t048", "tool": "search_docs"}
+{"args": {"query": "Cinder headcount"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t048", "tool": "search_docs"}
+{"args": {"content": "45", "path": "results/t048.txt"}, "result_sha256": "069c8afa66df0cf4556eb9dcdcace4349aa0cba900869aafcd438e7ec50bd55f", "run": "t048", "tool": "write_file"}
+{"args": {"path": "notes/ion.txt"}, "result_sha256": "b8da72f86c6625d3600e155f3decf531051d30f4441fa1a1a448629339a29915", "run": "t049", "tool": "read_file"}
+{"args": {"query": "owner of project Ion"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t049", "tool": "search_docs"}
+{"args": {"body": "Status of Ion: on track. Next review in 39 days.", "subject": "Ion Project Update", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t049", "tool": "send_email"}
+{"args": {"query": "project Granite budget"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t050", "tool": "search_docs"}
+{"args": {"expression": "0.15 * 338000"}, "result_sha256": "86251123bd73c8a1f99bf44f954717051f6f538a0b9b8153c82dd942e1e7e8a5", "run": "t050", "tool": "calculator"}
+{"args": {"content": "50700", "path": "results/t050.txt"}, "result_sha256": "264e65788bcdf3be61cec067d5111d7739aa887e3d05e7461bc85a5ad8d6b391", "run": "t050", "tool": "write_file"}
+{"args": {"query": "project Harbor owner deadline"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t051", "tool": "search_docs"}
+{"args": {"body": "Reminder: Project Harbor deadline is 2027-01-18.", "subject": "Project Harbor Deadline Reminder", "to": "harbor.lead@acme.test"}, "result_sha256": "0233883b7f5146b57f011f5582cc13a17986dd614eb17e090538c246272ace12", "run": "t051", "tool": "send_email"}
+{"args": {"query": "project Lumen budget project Atlas budget"}, "result_sha256": "569ca634b0ccd09a2178ca33b4b206dec4aaf41ce42ce78f6f6ef352386e9bea", "run": "t052", "tool": "search_docs"}
+{"args": {"content": "Project Lumen", "path": "results/t052.txt"}, "result_sha256": "8c40f8d99a31261ca3e1bb85d2513ec86ef39228f6c4132ba7fc13623c8658e4", "run": "t052", "tool": "write_file"}
+{"args": {"query": "Harbor headcount Atlas headcount Ember headcount"}, "result_sha256": "f1e6db59068cc7deab94ea3a34f3534e105e4b12e27766cab1d35b51356f7edd", "run": "t053", "tool": "search_docs"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t053", "tool": "search_docs"}
+{"args": {"content": "37", "path": "results/t053.txt"}, "result_sha256": "54470586835a8c0643f205bd7d6e9160681a012f4082f48e044e89da9cc0a933", "run": "t053", "tool": "write_file"}
+{"args": {"path": "notes/lumen.txt"}, "result_sha256": "51e9895550c2d2907fcec6893a73794f67f4853016a8c36ea72662f6231edd7c", "run": "t054", "tool": "read_file"}
+{"args": {"query": "project Lumen owner"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t054", "tool": "search_docs"}
+{"args": {"body": "Lumen is on track with a next review in 40 days.", "subject": "Lumen Status Update", "to": "lumen.lead@acme.test"}, "result_sha256": "319d6b2be5b6828639d143e94851b34ba6132a0c22d4550ee52e94d2110d8c6a", "run": "t054", "tool": "send_email"}
+{"args": {"query": "project Juniper budget"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t055", "tool": "search_docs"}
+{"args": {"expression": "0.25 * 100000"}, "result_sha256": "0812a4ef4ea9e800e2cb87a311317fdb06f80ab8700c7185b35588b3d6953739", "run": "t055", "tool": "calculator"}
+{"args": {"content": "25000", "path": "results/t055.txt"}, "result_sha256": "18b753fb25ac7d4f85d19ad34da4003dd7a3036cdb672bbc6c0b480425a25489", "run": "t055", "tool": "write_file"}
+{"args": {"query": "project Juniper owner deadline"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t056", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Juniper is 2027-05-18.", "subject": "Project Juniper Deadline Reminder", "to": "juniper.lead@acme.test"}, "result_sha256": "53e7aac6302602eb8559405a878f2e6e9a5574fdec55c3bfd273818148b68401", "run": "t056", "tool": "send_email"}
+{"args": {"query": "project Granite budget"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t057", "tool": "search_docs"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t057", "tool": "search_docs"}
+{"args": {"content": "project Krypton", "path": "results/t057.txt"}, "result_sha256": "bf6f15740d3d560958db87afa9cde60bd2568c5b4fa6efbe20cd3ffd8f8a15c1", "run": "t057", "tool": "write_file"}
+{"args": {"query": "headcount Cinder Lumen Ion"}, "result_sha256": "66423f2b592568cd5a5621f18e401a634813c7a72d72f2d4e752181938c2010e", "run": "t058", "tool": "search_docs"}
+{"args": {"query": "project Lumen headcount"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t058", "tool": "search_docs"}
+{"args": {"content": "25", "path": "results/t058.txt"}, "result_sha256": "aa75d7aeb1eb9f2bf62e5eef592ad42854cf8f26bbadf5d82c714e706b63d075", "run": "t058", "tool": "write_file"}
+{"args": {"path": "notes/delta.txt"}, "result_sha256": "848dad441248321df490b0c17c7e4126cf3c026fdda8bc7ef09f95f254e2f26c", "run": "t059", "tool": "read_file"}
+{"args": {"query": "project Delta owner email"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t059", "tool": "search_docs"}
+{"args": {"body": "Delta: Status on track, next review in 20 days.", "subject": "Delta Update", "to": "delta.lead@acme.test"}, "result_sha256": "d34a4414c5754ef03bfe60cce033455746cbd80f2e47c621bc8ee434af663d20", "run": "t059", "tool": "send_email"}
+{"args": {"query": "project Atlas budget"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t060", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 205000"}, "result_sha256": "875e20127725eef40d93116f55cf634b50d6b14bcd7d11e31bad3687aa03785d", "run": "t060", "tool": "calculator"}
+{"args": {"content": "20500", "path": "results/t060.txt"}, "result_sha256": "234bad30c869b14f9a2fbb77bb39249051a068c34aed087724b9c55ed75d1400", "run": "t060", "tool": "write_file"}
+{"args": {"query": "project Ion owner deadline"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t061", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ion is 2027-07-05.", "subject": "Project Ion Deadline Reminder", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t061", "tool": "send_email"}
+{"args": {"query": "project Ion budget project Delta budget"}, "result_sha256": "a9f60cdfda5a4171bde0ee1d73c73c60c9e20cb2f0cc6bd5d82c4a6143052985", "run": "t062", "tool": "search_docs"}
+{"args": {"content": "Project Ion", "path": "results/t062.txt"}, "result_sha256": "24ff02a4ddbe433c8099dbbf83e7079ffc638bb9a15c759b6d826fadef2b27ec", "run": "t062", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t063", "tool": "search_docs"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t063", "tool": "search_docs"}
+{"args": {"query": "Falcon headcount"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t063", "tool": "search_docs"}
+{"args": {"content": "22", "path": "results/t063.txt"}, "result_sha256": "a5737a0ecb898b780fea697e11cdd08ca0d4906d61f1aabc3e876c399fa94989", "run": "t063", "tool": "write_file"}
+{"args": {"path": "notes/juniper.txt"}, "result_sha256": "cb21f7b10d8c64116e3ed10e877458516a762d7c8f9a7558892ae1471844c0a2", "run": "t064", "tool": "read_file"}
+{"args": {"query": "project Juniper owner"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t064", "tool": "search_docs"}
+{"args": {"body": "Juniper: Status on track, next review in 57 days.", "subject": "Juniper Note Summary", "to": "juniper.lead@acme.test"}, "result_sha256": "53e7aac6302602eb8559405a878f2e6e9a5574fdec55c3bfd273818148b68401", "run": "t064", "tool": "send_email"}
+{"args": {"query": "project Falcon budget"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t065", "tool": "search_docs"}
+{"args": {"expression": "0.20 * 329000"}, "result_sha256": "c998dcf76bf0154678937b16b0abc9db17d3c95fb008f87882ad13eef40eee27", "run": "t065", "tool": "calculator"}
+{"args": {"content": "65800", "path": "results/t065.txt"}, "result_sha256": "0b6e41970261f0846f548f32971b455b49f0d201d562ffe851353d0c122253ad", "run": "t065", "tool": "write_file"}
+{"args": {"query": "project Ember owner deadline"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t066", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ember is 2027-07-02.", "subject": "Reminder: Project Ember Deadline", "to": "ember.lead@acme.test"}, "result_sha256": "880055b54054a196e9dd2214085aac9240941b3bf64f85497c5e720dc8ab1cdb", "run": "t066", "tool": "send_email"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t067", "tool": "search_docs"}
+{"args": {"query": "project Ion budget"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t067", "tool": "search_docs"}
+{"args": {"content": "Project Krypton", "path": "results/t067.txt"}, "result_sha256": "8065acc4bbae947610d5a48b3350b45bbb04b777e509365fea6014def412c580", "run": "t067", "tool": "write_file"}
+{"args": {"query": "Juniper headcount Atlas headcount Granite headcount"}, "result_sha256": "38775fdcbc19180c6fcf6ae6ad809cab50d8f3807a1a16752deb5077c2daddb8", "run": "t068", "tool": "search_docs"}
+{"args": {"query": "Juniper headcount"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t068", "tool": "search_docs"}
+{"args": {"content": "32", "path": "results/t068.txt"}, "result_sha256": "b0e28f143c93d8c77a4e06168ee595e0176b00c5e53e1345f3f79ee8e2b9ebf9", "run": "t068", "tool": "write_file"}
+{"args": {"path": "notes/lumen.txt"}, "result_sha256": "51e9895550c2d2907fcec6893a73794f67f4853016a8c36ea72662f6231edd7c", "run": "t069", "tool": "read_file"}
+{"args": {"query": "project Lumen owner"}, "result_sha256": "1b0a6ddece3208e5707268f7e0c8a7d76107627d7da66e0e3e986a8f37949fa9", "run": "t069", "tool": "search_docs"}
+{"args": {"body": "Lumen is on track with a next review in 40 days.", "subject": "Lumen Status Update", "to": "lumen.lead@acme.test"}, "result_sha256": "319d6b2be5b6828639d143e94851b34ba6132a0c22d4550ee52e94d2110d8c6a", "run": "t069", "tool": "send_email"}
+{"args": {"query": "project Ion budget"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t070", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 108000"}, "result_sha256": "35e7d0004e1162a9a1203ca8ce634aaf8728dbb6b47d4ddaebfc4773a2d9ef30", "run": "t070", "tool": "calculator"}
+{"args": {"content": "10800", "path": "results/t070.txt"}, "result_sha256": "628f09154ef554cbe11caf3ba1d40ccc9a68fd93bc64021b450bc012290be4df", "run": "t070", "tool": "write_file"}
+{"args": {"query": "project Ion owner deadline"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t071", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ion is 2027-07-05.", "subject": "Project Ion Deadline Reminder", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t071", "tool": "send_email"}
+{"args": {"query": "project Ion budget"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t072", "tool": "search_docs"}
+{"args": {"query": "project Delta budget"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t072", "tool": "search_docs"}
+{"args": {"content": "Project Ion", "path": "results/t072.txt"}, "result_sha256": "30ae386e2cae35a578068f3562e29dfca7ebb38526a9d6fb2cb54def38252268", "run": "t072", "tool": "write_file"}
+{"args": {"query": "Granite headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t073", "tool": "search_docs"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t073", "tool": "search_docs"}
+{"args": {"expression": "4+7+10"}, "result_sha256": "6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443", "run": "t073", "tool": "calculator"}
+{"args": {"content": "21", "path": "results/t073.txt"}, "result_sha256": "928b8eae7662eb5cc40c82b943ec6806b27a7e99254c597771a7bdb7fa334621", "run": "t073", "tool": "write_file"}
+{"args": {"path": "notes/falcon.txt"}, "result_sha256": "471f9145072264a46c154848ce288b43053329fcd4f5621a1fd39b12f32ae8fb", "run": "t074", "tool": "read_file"}
+{"args": {"query": "project Falcon owner"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t074", "tool": "search_docs"}
+{"args": {"body": "Falcon: Status on track, next review in 45 days.", "subject": "Falcon Note Summary", "to": "falcon.lead@acme.test"}, "result_sha256": "583cf5f6343dcb965d515ae7618b3a31a14a6714baaa71f2bf270433d38ca6f4", "run": "t074", "tool": "send_email"}
+{"args": {"query": "project Juniper budget"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t075", "tool": "search_docs"}
+{"args": {"expression": "0.25 * 100000"}, "result_sha256": "0812a4ef4ea9e800e2cb87a311317fdb06f80ab8700c7185b35588b3d6953739", "run": "t075", "tool": "calculator"}
+{"args": {"content": "25000", "path": "results/t075.txt"}, "result_sha256": "aace75a44f2a5c170e9d4c7d2c65baceeb876c13e509c00fb364fed8a542233c", "run": "t075", "tool": "write_file"}
+{"args": {"query": "project Delta owner deadline"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t076", "tool": "search_docs"}
+{"args": {"body": "Reminder: Project Delta deadline is 2027-07-03.", "subject": "Project Delta Deadline Reminder", "to": "delta.lead@acme.test"}, "result_sha256": "d34a4414c5754ef03bfe60cce033455746cbd80f2e47c621bc8ee434af663d20", "run": "t076", "tool": "send_email"}
+{"args": {"query": "project Ion budget"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t077", "tool": "search_docs"}
+{"args": {"query": "project Granite budget"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t077", "tool": "search_docs"}
+{"args": {"content": "Project Granite", "path": "results/t077.txt"}, "result_sha256": "ec36e91d08b5d4cb3a25f686148a32c73d1b0d33cba854a12e653e431e48656d", "run": "t077", "tool": "write_file"}
+{"args": {"query": "Harbor project headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t078", "tool": "search_docs"}
+{"args": {"query": "Falcon project headcount"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t078", "tool": "search_docs"}
+{"args": {"query": "Granite project headcount"}, "result_sha256": "95fda9f9e8e3bb37b68664811cb18267234e1d4f5c6afb2f167f6b2c2b4776d5", "run": "t078", "tool": "search_docs"}
+{"args": {"expression": "10+6+4"}, "result_sha256": "f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b", "run": "t078", "tool": "calculator"}
+{"args": {"content": "20", "path": "results/t078.txt"}, "result_sha256": "ad58ea5f9f6171876794f3f8bd0c6d4c507d4e2c9e54ead35e13c91d767b9033", "run": "t078", "tool": "write_file"}
+{"args": {"path": "notes/falcon.txt"}, "result_sha256": "471f9145072264a46c154848ce288b43053329fcd4f5621a1fd39b12f32ae8fb", "run": "t079", "tool": "read_file"}
+{"args": {"query": "project Falcon owner"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t079", "tool": "search_docs"}
+{"args": {"body": "Falcon: Status on track, next review in 45 days.", "subject": "Falcon Note Summary", "to": "falcon.lead@acme.test"}, "result_sha256": "583cf5f6343dcb965d515ae7618b3a31a14a6714baaa71f2bf270433d38ca6f4", "run": "t079", "tool": "send_email"}
+{"args": {"query": "project Atlas budget"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t080", "tool": "search_docs"}
+{"args": {"expression": "0.25 * 205000"}, "result_sha256": "f3e581005071b9c3f872f35560b3b8506ff1783c6ffaa178c0c2faf8a9df23c6", "run": "t080", "tool": "calculator"}
+{"args": {"content": "51250", "path": "results/t080.txt"}, "result_sha256": "96273a00025820ee735e99045a05183af2b6f1c45c23f90090d1e0979f91076d", "run": "t080", "tool": "write_file"}
+{"args": {"query": "project Ion owner deadline"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t081", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ion is 2027-07-05.", "subject": "Project Ion Deadline Reminder", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t081", "tool": "send_email"}
+{"args": {"query": "project Juniper budget project Lumen budget"}, "result_sha256": "bdf3e8391b41e281fef69fe3ad63e7b316326de2fa98ed864e5c294e745ca785", "run": "t082", "tool": "search_docs"}
+{"args": {"content": "Project Lumen", "path": "results/t082.txt"}, "result_sha256": "2d5eb988c17754b99b6966f09dd2daae0d583ef9d353cf8c43a0b0caf26dbd70", "run": "t082", "tool": "write_file"}
+{"args": {"query": "Falcon headcount"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t083", "tool": "search_docs"}
+{"args": {"query": "Harbor headcount"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t083", "tool": "search_docs"}
+{"args": {"query": "Juniper headcount"}, "result_sha256": "272a02beb676c8ecbf8d354dc5a1addebbf56904dabca86a1242db13825f98f3", "run": "t083", "tool": "search_docs"}
+{"args": {"content": "37", "path": "results/t083.txt"}, "result_sha256": "4b805e76705566c72eace801f385c546a1adfd1063b1a2280f12ba0b4c774bf2", "run": "t083", "tool": "write_file"}
+{"args": {"path": "notes/atlas.txt"}, "result_sha256": "5d8a6a792f2bffff088a67d8eb9011b3d179a771c3446aff50f6353a4aac1ba8", "run": "t084", "tool": "read_file"}
+{"args": {"query": "Atlas project owner"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t084", "tool": "search_docs"}
+{"args": {"body": "Atlas: Status on track, next review in 8 days.", "subject": "Atlas Note Summary", "to": "atlas.lead@acme.test"}, "result_sha256": "097c97372824e67ec52172ff4be9feea2a6a00cb9766def1a08c070bb469f225", "run": "t084", "tool": "send_email"}
+{"args": {"query": "project Delta budget"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t085", "tool": "search_docs"}
+{"args": {"expression": "0.10 * 84000"}, "result_sha256": "27310538826e65b13fa49ea7293609f906cad1a4f734b3b2a9c801cbd0256797", "run": "t085", "tool": "calculator"}
+{"args": {"content": "8400", "path": "results/t085.txt"}, "result_sha256": "bb2fbec7691e1652ea6266a36f5d06e38f550832ce9a31dd8bb25d2f34c369ec", "run": "t085", "tool": "write_file"}
+{"args": {"query": "project Ion owner deadline"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t086", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Ion is 2027-07-05.", "subject": "Project Ion Deadline Reminder", "to": "ion.lead@acme.test"}, "result_sha256": "012a7ab42029d8ed864eb8c53c37e8488c210589d63d835a58c9584166f97c5a", "run": "t086", "tool": "send_email"}
+{"args": {"query": "project Juniper budget project Cinder budget"}, "result_sha256": "ba6ea8a4d0437791e8df1b96ed376f458ad40e783731eb3d7e09b71a62faa3ef", "run": "t087", "tool": "search_docs"}
+{"args": {"content": "Project Cinder", "path": "results/t087.txt"}, "result_sha256": "2077250eba2478d7d86457d0f5b19523b62697a27796a85db9f3d9026a8ce0d6", "run": "t087", "tool": "write_file"}
+{"args": {"query": "Borealis headcount"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t088", "tool": "search_docs"}
+{"args": {"query": "Ion headcount"}, "result_sha256": "e3ac3f26817d49d1e6c5c986b8fa324071829c50b5c1b8b69d15d22e5c3aeb6c", "run": "t088", "tool": "search_docs"}
+{"args": {"query": "Ember headcount"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t088", "tool": "search_docs"}
+{"args": {"content": "61", "path": "results/t088.txt"}, "result_sha256": "d2166369ab32e15513e33660ab78053002b528da3a8ee638888a17625b8af442", "run": "t088", "tool": "write_file"}
+{"args": {"path": "notes/atlas.txt"}, "result_sha256": "5d8a6a792f2bffff088a67d8eb9011b3d179a771c3446aff50f6353a4aac1ba8", "run": "t089", "tool": "read_file"}
+{"args": {"query": "Atlas project owner"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t089", "tool": "search_docs"}
+{"args": {"body": "Atlas: Status on track, next review in 8 days.", "subject": "Atlas Note Summary", "to": "atlas.lead@acme.test"}, "result_sha256": "097c97372824e67ec52172ff4be9feea2a6a00cb9766def1a08c070bb469f225", "run": "t089", "tool": "send_email"}
+{"args": {"query": "project Krypton budget"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t090", "tool": "search_docs"}
+{"args": {"expression": "0.05 * 389000"}, "result_sha256": "08e609e2f49418a24917391f2ceab78a2120d1ed63fa0a850f54eea95f996d34", "run": "t090", "tool": "calculator"}
+{"args": {"content": "19450", "path": "results/t090.txt"}, "result_sha256": "c2eadf78b725efec598c1a5784a46993ccc92779c77288fc96f9f182d40ae4f4", "run": "t090", "tool": "write_file"}
+{"args": {"query": "project Borealis owner deadline"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t091", "tool": "search_docs"}
+{"args": {"body": "Just a friendly reminder that the deadline for Project Borealis is 2027-09-04.", "subject": "Project Borealis Deadline Reminder", "to": "borealis.lead@acme.test"}, "result_sha256": "0a58294f17ae769cb0954474850455b0f823586398e8bed9d38565c2e4d90780", "run": "t091", "tool": "send_email"}
+{"args": {"query": "project Atlas budget"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t092", "tool": "search_docs"}
+{"args": {"query": "project Harbor budget"}, "result_sha256": "4f302f5a6227203baa20e5c24f16b8b9085fc9b1f08303323a5e25c5428d2fcf", "run": "t092", "tool": "search_docs"}
+{"args": {"content": "Project Atlas", "path": "results/t092.txt"}, "result_sha256": "67101434a7896d9312bd11fe7e7f7093b1b2c21e5814bd35c1b04a1f79163c96", "run": "t092", "tool": "write_file"}
+{"args": {"query": "Atlas headcount"}, "result_sha256": "886f5330e5c4311ab200f45aeddef4a48cd654d35153b770a2189a3741e5a6c8", "run": "t093", "tool": "search_docs"}
+{"args": {"query": "Ember headcount"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t093", "tool": "search_docs"}
+{"args": {"query": "Delta headcount"}, "result_sha256": "54daf624510d2b39979d10d386b8a1513d6895a003887a9c928c82def382ccf1", "run": "t093", "tool": "search_docs"}
+{"args": {"content": "43", "path": "results/t093.txt"}, "result_sha256": "77a159a37ff8161fdeacb669b897bfb9394457e3cf7ddefb4aae0d142d1a642c", "run": "t093", "tool": "write_file"}
+{"args": {"path": "notes/ember.txt"}, "result_sha256": "da303a89b13eae445bb46c4c2f962bef3ebb398e2fee3c08ea2a36543b016f28", "run": "t094", "tool": "read_file"}
+{"args": {"query": "owner of project Ember"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t094", "tool": "search_docs"}
+{"args": {"body": "Ember: Status on track, next review in 57 days.", "subject": "Ember Project Update", "to": "ember.lead@acme.test"}, "result_sha256": "880055b54054a196e9dd2214085aac9240941b3bf64f85497c5e720dc8ab1cdb", "run": "t094", "tool": "send_email"}
+{"args": {"query": "project Borealis budget"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t095", "tool": "search_docs"}
+{"args": {"expression": "0.25 * 77000"}, "result_sha256": "bda1da2ec30c888db35a790bd052a069de890cec3d5d62999dadfa12e08d4818", "run": "t095", "tool": "calculator"}
+{"args": {"content": "19250", "path": "results/t095.txt"}, "result_sha256": "077a96871816270fdff708af2073c13e31a26b784bd0dcab537478e5e2e29235", "run": "t095", "tool": "write_file"}
+{"args": {"query": "project Cinder owner deadline"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t096", "tool": "search_docs"}
+{"args": {"body": "Reminder: Project Cinder deadline is 2027-09-07.", "subject": "Project Cinder Deadline Reminder", "to": "cinder.lead@acme.test"}, "result_sha256": "62caae8f530125d9b0b2d60a4c242ddd5b63af08e4e32efd5d790832a6e9eb2a", "run": "t096", "tool": "send_email"}
+{"args": {"query": "project Falcon budget"}, "result_sha256": "c30fa3047639a0b431e3d34364edade2d3d65bca66b875b60442b7a4e2da738e", "run": "t097", "tool": "search_docs"}
+{"args": {"query": "project Ember budget"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t097", "tool": "search_docs"}
+{"args": {"content": "Project Falcon", "path": "results/t097.txt"}, "result_sha256": "b229b361d472ac7f24a17b54e1f1163639bb97458e15b985fa965b2ece6236af", "run": "t097", "tool": "write_file"}
+{"args": {"query": "Borealis headcount"}, "result_sha256": "002d01f6c59204121416f1806a42d80e2c3b3133d67b2702580b1fe07324418f", "run": "t098", "tool": "search_docs"}
+{"args": {"query": "Cinder headcount"}, "result_sha256": "1fb4083a7c92d0b4bc51dbb875367c13ce8d93a985d5f1fe9007f1a73fc2aa3f", "run": "t098", "tool": "search_docs"}
+{"args": {"query": "Krypton headcount"}, "result_sha256": "fc46b1753c7fb553091c3fb83347cf3aafc1eecbbaecce1eac7462ac7d5b11a3", "run": "t098", "tool": "search_docs"}
+{"args": {"expression": "29+4+8"}, "result_sha256": "3d914f9348c9cc0ff8a79716700b9fcd4d2f3e711608004eb8f138bcba7f14d9", "run": "t098", "tool": "calculator"}
+{"args": {"content": "41", "path": "results/t098.txt"}, "result_sha256": "8eb44cb88d4f01ed59dfc052172a6e5afb6ea9afe98a724b54c0046ac194dd9e", "run": "t098", "tool": "write_file"}
+{"args": {"path": "notes/ember.txt"}, "result_sha256": "da303a89b13eae445bb46c4c2f962bef3ebb398e2fee3c08ea2a36543b016f28", "run": "t099", "tool": "read_file"}
+{"args": {"query": "owner of project Ember"}, "result_sha256": "47bfc24efe0c50ea21a8f424214b9eefea99e088a4a10d2d88aad36f50d9a55b", "run": "t099", "tool": "search_docs"}
+{"args": {"body": "Ember: Status on track, next review in 57 days.", "subject": "Ember Project Update", "to": "ember.lead@acme.test"}, "result_sha256": "880055b54054a196e9dd2214085aac9240941b3bf64f85497c5e720dc8ab1cdb", "run": "t099", "tool": "send_email"}

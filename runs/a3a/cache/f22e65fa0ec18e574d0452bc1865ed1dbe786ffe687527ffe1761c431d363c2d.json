@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_0a39857e-d5c9-47f6-af73-c64860a0dd62", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Ion budget\"}"}}]}, "usage": {"prompt_tokens": 669, "completion_tokens": 26, "total_tokens": 695}}

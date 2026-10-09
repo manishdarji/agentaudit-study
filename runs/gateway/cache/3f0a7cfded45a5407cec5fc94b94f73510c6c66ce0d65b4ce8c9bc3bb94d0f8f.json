@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_848d1d0f-98ca-43f9-896c-d6e99edec153", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"Project Atlas\",\"path\":\"results/t092.txt\"}"}}]}, "usage": {"prompt_tokens": 560, "completion_tokens": 42, "total_tokens": 602}}

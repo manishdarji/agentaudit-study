@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_44e57032-0c90-4160-8a42-f9c8f175e769", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Juniper headcount\"}"}}]}, "usage": {"prompt_tokens": 565, "completion_tokens": 28, "total_tokens": 593}}

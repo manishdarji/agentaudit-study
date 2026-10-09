@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_92c91833-9767-4dd6-bf67-973782adf20a", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Ion owner deadline\"}"}}]}, "usage": {"prompt_tokens": 338, "completion_tokens": 35, "total_tokens": 373}}

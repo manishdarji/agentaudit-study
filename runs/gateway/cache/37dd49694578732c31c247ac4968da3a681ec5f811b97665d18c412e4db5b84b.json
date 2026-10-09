@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_c878cd7a-3e11-43cc-a189-02c7d9545627", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/juniper.txt\"}"}}]}, "usage": {"prompt_tokens": 343, "completion_tokens": 33, "total_tokens": 376}}

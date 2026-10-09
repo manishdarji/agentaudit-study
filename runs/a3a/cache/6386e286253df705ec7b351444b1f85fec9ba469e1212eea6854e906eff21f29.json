@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_878cea50-51eb-41e7-8bf9-8c9b541ed1d9", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Project Granite budget\"}"}}]}, "usage": {"prompt_tokens": 977, "completion_tokens": 73, "total_tokens": 1050}}

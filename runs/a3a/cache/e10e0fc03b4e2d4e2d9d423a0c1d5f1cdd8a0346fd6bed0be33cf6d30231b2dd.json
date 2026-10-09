@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_770ed739-e5be-46ae-af94-412196e2482f", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Ember project owner email\"}"}}]}, "usage": {"prompt_tokens": 604, "completion_tokens": 50, "total_tokens": 654}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_2e9d398a-9040-48b7-b432-721a39a363cb", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Cinder headcount\"}"}}]}, "usage": {"prompt_tokens": 567, "completion_tokens": 28, "total_tokens": 595}}

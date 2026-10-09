@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_456a0a5e-8967-49b0-bd2e-2ab29b75b0ed", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Atlas budget\"}"}}]}, "usage": {"prompt_tokens": 347, "completion_tokens": 36, "total_tokens": 383}}

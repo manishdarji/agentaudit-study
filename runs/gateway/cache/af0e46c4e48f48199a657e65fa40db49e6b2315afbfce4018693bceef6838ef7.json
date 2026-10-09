@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_93869c50-136a-40c3-9f1b-7300a2b3d500", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/ion.txt\"}"}}]}, "usage": {"prompt_tokens": 341, "completion_tokens": 32, "total_tokens": 373}}

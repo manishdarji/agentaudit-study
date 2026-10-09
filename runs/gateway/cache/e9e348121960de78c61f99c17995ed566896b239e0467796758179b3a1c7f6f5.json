@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_8538a943-cb49-4c45-9fe5-74c0a35a2692", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Krypton budget\"}"}}]}, "usage": {"prompt_tokens": 339, "completion_tokens": 34, "total_tokens": 373}}

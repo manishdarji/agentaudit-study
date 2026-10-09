@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_32abc821-db02-46e2-9717-1d8677baa948", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"budget/delta_budget.txt\"}"}}]}, "usage": {"prompt_tokens": 604, "completion_tokens": 75, "total_tokens": 679}}

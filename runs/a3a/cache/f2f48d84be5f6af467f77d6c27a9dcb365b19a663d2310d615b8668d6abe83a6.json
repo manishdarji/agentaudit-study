@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_ac2b58d4-d480-484c-b52f-033ae9c8dab9", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Borealis owner deadline\"}"}}]}, "usage": {"prompt_tokens": 560, "completion_tokens": 37, "total_tokens": 597}}

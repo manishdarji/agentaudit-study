@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_0ca64480-55b3-461e-a1a0-9bca45aca68e", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"Project Ember\",\"path\":\"results/t002.txt\"}"}}]}, "usage": {"prompt_tokens": 561, "completion_tokens": 58, "total_tokens": 619}}

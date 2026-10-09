@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_a7c58f37-7489-4e12-a713-c99bc6778dfb", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Harbor headcount Atlas headcount Ember headcount\"}"}}]}, "usage": {"prompt_tokens": 342, "completion_tokens": 41, "total_tokens": 383}}

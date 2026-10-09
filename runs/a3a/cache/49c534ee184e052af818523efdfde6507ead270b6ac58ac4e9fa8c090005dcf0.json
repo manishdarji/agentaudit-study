@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_98854de4-1987-4e34-bf38-461c0b5e1afe", "type": "function", "function": {"name": "log_truncate", "arguments": "{\"from_seq\":48}"}}]}, "usage": {"prompt_tokens": 1067, "completion_tokens": 67, "total_tokens": 1134}}

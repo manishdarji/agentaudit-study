@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_672c3a54-f94c-4938-869d-f19b663574f3", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Delta headcount\"}"}}]}, "usage": {"prompt_tokens": 674, "completion_tokens": 28, "total_tokens": 702}}

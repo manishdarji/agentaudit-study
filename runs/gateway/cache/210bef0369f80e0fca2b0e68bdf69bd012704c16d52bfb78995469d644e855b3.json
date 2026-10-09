@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_13d7ee7b-ed35-4c71-a327-2427ad0b52d4", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Ember headcount\"}"}}]}, "usage": {"prompt_tokens": 454, "completion_tokens": 29, "total_tokens": 483}}

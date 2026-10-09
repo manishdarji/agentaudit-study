@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_9c98c71a-1f23-4b7f-a75c-9d8e3e36def9", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Falcon owner email\"}"}}]}, "usage": {"prompt_tokens": 604, "completion_tokens": 46, "total_tokens": 650}}

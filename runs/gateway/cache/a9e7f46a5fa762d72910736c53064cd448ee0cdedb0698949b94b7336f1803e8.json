@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_8d7a5d59-f6dd-4817-80d9-888619e63a3f", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Atlas project owner\"}"}}]}, "usage": {"prompt_tokens": 383, "completion_tokens": 43, "total_tokens": 426}}

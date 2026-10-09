@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_b4372e77-0bf6-4646-b529-a8cce997280a", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Ion headcount\"}"}}]}, "usage": {"prompt_tokens": 707, "completion_tokens": 28, "total_tokens": 735}}

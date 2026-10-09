@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_c7ef964e-8bea-4584-a25b-ca277acee4af", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Juniper owner deadline\"}"}}]}, "usage": {"prompt_tokens": 339, "completion_tokens": 37, "total_tokens": 376}}

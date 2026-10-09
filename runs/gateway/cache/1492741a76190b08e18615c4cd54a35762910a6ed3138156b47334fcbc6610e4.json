@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_b22cfc4d-1cf5-44c9-a3ef-ae231db0e91b", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Delta owner email\"}"}}]}, "usage": {"prompt_tokens": 383, "completion_tokens": 41, "total_tokens": 424}}

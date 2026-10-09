@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_5630c2b6-ddc5-4611-a79b-c41add4c72e9", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/krypton.txt\"}"}}]}, "usage": {"prompt_tokens": 342, "completion_tokens": 32, "total_tokens": 374}}

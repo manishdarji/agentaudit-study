@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_6a1fdf3f-e77c-49f5-a515-e32913722ff6", "type": "function", "function": {"name": "read_file", "arguments": "{\"path\":\"notes/lumen.txt\"}"}}]}, "usage": {"prompt_tokens": 342, "completion_tokens": 32, "total_tokens": 374}}

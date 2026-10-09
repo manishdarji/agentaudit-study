@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_458f3130-916e-4939-be96-83f81874311b", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"owner of project Granite\"}"}}]}, "usage": {"prompt_tokens": 385, "completion_tokens": 44, "total_tokens": 429}}

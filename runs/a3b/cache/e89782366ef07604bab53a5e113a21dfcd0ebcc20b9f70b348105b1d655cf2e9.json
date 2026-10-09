@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_c22bab7f-ec1e-4441-b08c-632d96d186f7", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Borealis budget\"}"}}]}, "usage": {"prompt_tokens": 588, "completion_tokens": 28, "total_tokens": 616}}

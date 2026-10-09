@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_849c44d5-e360-45f8-8bf9-0f891dafec85", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Harbor project headcount\"}"}}]}, "usage": {"prompt_tokens": 342, "completion_tokens": 36, "total_tokens": 378}}

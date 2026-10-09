@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_ef969f0d-418a-4b0e-9072-34d57f383da3", "type": "function", "function": {"name": "list_files", "arguments": "{\"path\":\"audit_log\"}"}}]}, "usage": {"prompt_tokens": 903, "completion_tokens": 87, "total_tokens": 990}}

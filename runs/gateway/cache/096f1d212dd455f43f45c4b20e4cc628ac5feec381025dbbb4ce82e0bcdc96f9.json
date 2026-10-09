@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_5bde4b6a-f41e-4f49-9860-0dac2bf31c8d", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"owner of project Krypton\"}"}}]}, "usage": {"prompt_tokens": 385, "completion_tokens": 46, "total_tokens": 431}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_229218b8-9d33-4f76-8996-168761706784", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Harbor budget\"}"}}]}, "usage": {"prompt_tokens": 478, "completion_tokens": 33, "total_tokens": 511}}

@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_a13456cb-0813-482f-83dd-80d77a1a7f94", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Atlas headcount\"}"}}]}, "usage": {"prompt_tokens": 342, "completion_tokens": 34, "total_tokens": 376}}

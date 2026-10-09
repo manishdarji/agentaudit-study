@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_f31c5902-53a0-40f2-a6d1-09a47bea3da6", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"Juniper headcount Atlas headcount Granite headcount\"}"}}]}, "usage": {"prompt_tokens": 343, "completion_tokens": 41, "total_tokens": 384}}

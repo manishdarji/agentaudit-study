@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_5072d80a-70db-4ee2-b7a5-13b17a983072", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"headcount Lumen Ion Granite\"}"}}]}, "usage": {"prompt_tokens": 343, "completion_tokens": 37, "total_tokens": 380}}

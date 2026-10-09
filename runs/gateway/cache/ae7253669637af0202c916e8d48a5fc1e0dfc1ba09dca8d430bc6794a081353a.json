@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_a475ec84-d604-4881-b6d2-3e9bf894a1b9", "type": "function", "function": {"name": "write_file", "arguments": "{\"content\":\"project Krypton\",\"path\":\"results/t057.txt\"}"}}]}, "usage": {"prompt_tokens": 561, "completion_tokens": 62, "total_tokens": 623}}

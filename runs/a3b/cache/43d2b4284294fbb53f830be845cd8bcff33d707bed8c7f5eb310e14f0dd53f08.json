@@ -1,0 +1,1 @@
+{"message": {"role": "assistant", "content": null, "tool_calls": [{"id": "fc_e6b9a083-b31a-470e-93db-3643b8383073", "type": "function", "function": {"name": "search_docs", "arguments": "{\"query\":\"project Falcon budget\"}"}}]}, "usage": {"prompt_tokens": 478, "completion_tokens": 33, "total_tokens": 511}}
